@@ -1,0 +1,9 @@
+windows对战：
+修改dppo\envs\etc.py的MOZIPATH 为本机墨子推演系统的bin目录文件夹，其他推演速度，决策步长也可以设置。
+设置完成后，启动main_versus.py：就可以运行该案例，启动对战。
+
+windows训练：
+启动cmd命令行，切换到 mozi_ai_sdk/dppo文件夹，启动learner训练： python -m train_ppo --job_name learner
+启动另一个命令行，切换到 mozi_ai_sdk/dppo文件夹，启动actor， 进⾏采样学习：python -m
+train_ppo --job_name actor localhost
+如果出现 ModuleNotFoundError: No module named 'mozi_ai_sdk.dppo.envs'或者‘No module named 'mozi_ai_sdk.dppo’，可以在本机环境变量中Path添加moziai_pack的路径：C:\Users\Administrator\Desktop\moziai-pack

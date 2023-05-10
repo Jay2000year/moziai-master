@@ -1,0 +1,18 @@
+#pip install --user -r decision_transformer.txt
+ipykernel
+jupyter-core==4.7.0
+jedi==0.17.2
+numpy==1.19.5
+matplotlib
+args
+argparse
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow==1.15.0
+xlrd==1.2.0
+opencv-contrib-python
+opencv-python
+openpyxl
+protobuf==3.20.0

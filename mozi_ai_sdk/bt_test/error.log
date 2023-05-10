@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "C:/Users/Administrator/Desktop/moziai-pack/mozi_ai_sdk/bt_test/main_versus.py", line 80, in <module>
+    main()
+  File "C:/Users/Administrator/Desktop/moziai-pack/mozi_ai_sdk/bt_test/main_versus.py", line 76, in main
+    run(env)
+  File "C:/Users/Administrator/Desktop/moziai-pack/mozi_ai_sdk/bt_test/main_versus.py", line 49, in run
+    env.step()
+  File "C:\Users\Administrator\Desktop\moziai-pack\mozi_ai_sdk\base_env.py", line 61, in step
+    self.situation = self.mozi_server.update_situation(self.scenario)
+  File "C:\Users\Administrator\Desktop\moziai-pack\mozi_simu_sdk\mozi_server.py", line 418, in update_situation
+    return scenario.situation.update_situation(self, scenario)
+  File "C:\Users\Administrator\Desktop\moziai-pack\mozi_simu_sdk\situation.py", line 308, in update_situation
+    update_data = mozi_server.send_and_recv("UpdateState")
+  File "C:\Users\Administrator\Desktop\moziai-pack\mozi_simu_sdk\mozi_server.py", line 217, in send_and_recv
+    response = self.grpc_client.GrpcConnect(GRPCServerBase_pb2.GrpcRequest(name=cmd), timeout=30)
+  File "C:\Users\Administrator\anaconda3\envs\virtualpy369\lib\site-packages\grpc\_channel.py", line 946, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+  File "C:\Users\Administrator\anaconda3\envs\virtualpy369\lib\site-packages\grpc\_channel.py", line 849, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.DEADLINE_EXCEEDED
+	details = "Deadline Exceeded"
+	debug_error_string = "{"created":"@1649750069.598000000","description":"Error received from peer ipv4:127.0.0.1:6060","file":"src/core/lib/surface/call.cc","file_line":1068,"grpc_message":"Deadline Exceeded","grpc_status":4}"
+>

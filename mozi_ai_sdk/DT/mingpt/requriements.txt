@@ -1,0 +1,9 @@
+ipykernel
+ipython==7.19.0
+jupyter-core==4.7.0
+jedi==0.17.2
+numpy==1.19.5
+nb_conda
+matplotlib
+
+

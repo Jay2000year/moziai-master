@@ -1,0 +1,19 @@
+[1m.\ballistic_test.py[m[36m:[m19[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1m.\ballistic_test.py[m[36m:[m49[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1m.\ballistic_test.py[m[36m:[m63[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1m.\ballistic_test.py[m[36m:[m90[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1m.\etc.py[m[36m:[m30[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1m.\etc.py[m[36m:[m31[36m:[m80[36m:[m [1m[31mE501[m line too long (99 > 79 characters)
+[1m.\etc.py[m[36m:[m33[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1m.\main.py[m[36m:[m10[36m:[m1[36m:[m [1m[31mF401[m 'pyproj' imported but unused
+[1m.\main.py[m[36m:[m13[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1m.\main.py[m[36m:[m14[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1m.\brigade_command\brigade_agent.py[m[36m:[m9[36m:[m1[36m:[m [1m[31mF403[m 'from mozi_ai_sdk.AA_command_agent.battalion_command.battalion_config import *' used; unable to detect undefined names
+[1m.\brigade_command\brigade_agent.py[m[36m:[m19[36m:[m80[36m:[m [1m[31mE501[m line too long (102 > 79 characters)
+[1m.\brigade_command\brigade_agent.py[m[36m:[m20[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1m.\brigade_command\brigade_agent.py[m[36m:[m68[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1m.\brigade_command\brigade_agent.py[m[36m:[m71[36m:[m80[36m:[m [1m[31mE501[m line too long (133 > 79 characters)
+[1m.\brigade_command\brigade_agent.py[m[36m:[m72[36m:[m80[36m:[m [1m[31mE501[m line too long (149 > 79 characters)
+[1m.\brigade_command\brigade_agent.py[m[36m:[m83[36m:[m53[36m:[m [1m[31mF405[m 'CombatMode' may be undefined, or defined from star imports: mozi_ai_sdk.AA_command_agent.battalion_command.battalion_config
+[1m.\theater_command\theater_agent.py[m[36m:[m18[36m:[m80[36m:[m [1m[31mE501[m line too long (102 > 79 characters)
+[1m.\theater_command\theater_agent.py[m[36m:[m19[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)

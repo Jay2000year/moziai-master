@@ -1,0 +1,7 @@
+对战eval模式：
+   如果已经替换，不需要再次替换
+   sc_code/utils/qmix_policy.py替换ray/rllib/agents/qmix/qmix_policy.py
+   sc_code/utils/model.py替换ray/rllib/agents/qmix/model.py
+   sc_code/utils/autoregressive_action_model.py替换    ray/rllib/examples/models/autoregressive_action_model.py
+
+修改ray_unv_anti_tank文件夹下，main_versus.py文件 36 行，parser.add_argument("--mozi_server_path", type=str, default='D:\\mozi_server\\Mozi\\MoziServer\\

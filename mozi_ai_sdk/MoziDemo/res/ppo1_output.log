@@ -1,0 +1,3851 @@
+[ERROR]: 2 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 0 MISS
+[ROUND #1/50000] 当前推演耗时87s, 累计耗时87s
+[FILES]: simple_推演_202303201903
+[MoziLog]: 爱国者2: 27	 爱国者3: 27	 效费比: 0.314815	 拦截率: 0.607143	 有拦截记录: 22	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 5	 无拦截记录: 6
+[Loss]: 9.282975
+[EP_REWARD]: -24.800000
+[ROUND #2/50000] 当前推演耗时84s, 累计耗时172s
+[FILES]: simple_推演_202303201904
+[MoziLog]: 爱国者2: 26	 爱国者3: 31	 效费比: 0.333333	 拦截率: 0.527778	 有拦截记录: 22	 来袭数量: 36	 记录拦截成功: 19	 记录拦截失败: 3	 无拦截记录: 14
+[Loss]: 7.643754
+[EP_REWARD]: -27.200000
+[ROUND #3/50000] 当前推演耗时93s, 累计耗时265s
+[FILES]: simple_推演_202303201906
+[MoziLog]: 爱国者2: 28	 爱国者3: 8	 效费比: 0.305556	 拦截率: 0.550000	 有拦截记录: 14	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 3	 无拦截记录: 6
+[Loss]: 2.238656
+[EP_REWARD]: -16.800000
+[ROUND #4/50000] 当前推演耗时62s, 累计耗时328s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 4 MISS
+[ROUND #5/50000] 当前推演耗时65s, 累计耗时394s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 5 MISS
+[ROUND #6/50000] 当前推演耗时89s, 累计耗时484s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 6 MISS
+[ROUND #7/50000] 当前推演耗时90s, 累计耗时575s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 7 MISS
+[ROUND #8/50000] 当前推演耗时93s, 累计耗时668s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 8 MISS
+[ROUND #9/50000] 当前推演耗时91s, 累计耗时760s
+[FILES]: simple_推演_202303201914
+[MoziLog]: 爱国者2: 23	 爱国者3: 24	 效费比: 0.425532	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 6.583552
+[EP_REWARD]: -27.200000
+[ROUND #10/50000] 当前推演耗时103s, 累计耗时864s
+[FILES]: simple_推演_202303201916
+[MoziLog]: 爱国者2: 18	 爱国者3: 8	 效费比: 0.384615	 拦截率: 0.500000	 有拦截记录: 11	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 1	 无拦截记录: 9
+[Loss]: -0.636733
+[EP_REWARD]: -16.000000
+[ROUND #11/50000] 当前推演耗时59s, 累计耗时924s
+[FILES]: simple_推演_202303201917
+[MoziLog]: 爱国者2: 27	 爱国者3: 28	 效费比: 0.345455	 拦截率: 0.593750	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 4	 无拦截记录: 9
+[Loss]: 2.963532
+[EP_REWARD]: -24.000000
+[ROUND #12/50000] 当前推演耗时91s, 累计耗时1015s
+[FILES]: simple_推演_202303201919
+[MoziLog]: 爱国者2: 26	 爱国者3: 25	 效费比: 0.470588	 拦截率: 0.666667	 有拦截记录: 25	 来袭数量: 36	 记录拦截成功: 24	 记录拦截失败: 1	 无拦截记录: 11
+[Loss]: 3.157617
+[EP_REWARD]: -26.400000
+[ROUND #13/50000] 当前推演耗时92s, 累计耗时1108s
+[FILES]: simple_推演_202303201920
+[MoziLog]: 爱国者2: 27	 爱国者3: 28	 效费比: 0.309091	 拦截率: 0.531250	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 17	 记录拦截失败: 6	 无拦截记录: 9
+[Loss]: 0.672306
+[EP_REWARD]: -21.600000
+[ROUND #14/50000] 当前推演耗时92s, 累计耗时1200s
+[FILES]: simple_推演_202303201922
+[MoziLog]: 爱国者2: 26	 爱国者3: 23	 效费比: 0.367347	 拦截率: 0.562500	 有拦截记录: 21	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 3	 无拦截记录: 11
+[Loss]: 2.811885
+[EP_REWARD]: -23.200000
+[ROUND #15/50000] 当前推演耗时100s, 累计耗时1300s
+[FILES]: simple_推演_202303201923
+[MoziLog]: 爱国者2: 28	 爱国者3: 31	 效费比: 0.338983	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 0.936809
+[EP_REWARD]: -23.200000
+[ROUND #16/50000] 当前推演耗时87s, 累计耗时1388s
+[FILES]: simple_推演_202303201925
+[MoziLog]: 爱国者2: 26	 爱国者3: 22	 效费比: 0.354167	 拦截率: 0.607143	 有拦截记录: 22	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 5	 无拦截记录: 6
+[Loss]: -0.963322
+[EP_REWARD]: -20.800000
+[ROUND #17/50000] 当前推演耗时74s, 累计耗时1462s
+[FILES]: simple_推演_202303201926
+[MoziLog]: 爱国者2: 25	 爱国者3: 31	 效费比: 0.392857	 拦截率: 0.611111	 有拦截记录: 26	 来袭数量: 36	 记录拦截成功: 22	 记录拦截失败: 4	 无拦截记录: 10
+[Loss]: 4.848696
+[EP_REWARD]: -24.800000
+[ROUND #18/50000] 当前推演耗时92s, 累计耗时1555s
+[FILES]: simple_推演_202303201927
+[MoziLog]: 爱国者2: 25	 爱国者3: 30	 效费比: 0.400000	 拦截率: 0.687500	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 1	 无拦截记录: 9
+[Loss]: 1.320346
+[EP_REWARD]: -27.200000
+[ROUND #19/50000] 当前推演耗时96s, 累计耗时1651s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 19 MISS
+[ROUND #20/50000] 当前推演耗时99s, 累计耗时1751s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 20 MISS
+[ROUND #21/50000] 当前推演耗时90s, 累计耗时1842s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 21 MISS
+[ROUND #22/50000] 当前推演耗时82s, 累计耗时1924s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 22 MISS
+[ROUND #23/50000] 当前推演耗时95s, 累计耗时2019s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 23 MISS
+[ROUND #24/50000] 当前推演耗时40s, 累计耗时2060s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 24 MISS
+[ROUND #25/50000] 当前推演耗时99s, 累计耗时2159s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 25 MISS
+[ROUND #26/50000] 当前推演耗时92s, 累计耗时2252s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 26 MISS
+[ROUND #27/50000] 当前推演耗时96s, 累计耗时2348s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 27 MISS
+[ROUND #28/50000] 当前推演耗时98s, 累计耗时2446s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 28 MISS
+[ROUND #29/50000] 当前推演耗时49s, 累计耗时2495s
+[FILES]: simple_推演_202303201943
+[MoziLog]: 爱国者2: 26	 爱国者3: 30	 效费比: 0.392857	 拦截率: 0.611111	 有拦截记录: 24	 来袭数量: 36	 记录拦截成功: 22	 记录拦截失败: 2	 无拦截记录: 12
+[Loss]: 1.666046
+[EP_REWARD]: -26.400000
+[ROUND #30/50000] 当前推演耗时100s, 累计耗时2596s
+[FILES]: simple_推演_202303201945
+[MoziLog]: 爱国者2: 25	 爱国者3: 24	 效费比: 0.448980	 拦截率: 0.611111	 有拦截记录: 23	 来袭数量: 36	 记录拦截成功: 22	 记录拦截失败: 1	 无拦截记录: 13
+[Loss]: 0.710352
+[EP_REWARD]: -26.400000
+[ROUND #31/50000] 当前推演耗时91s, 累计耗时2688s
+[FILES]: simple_推演_202303201946
+[MoziLog]: 爱国者2: 28	 爱国者3: 22	 效费比: 0.380000	 拦截率: 0.593750	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 4	 无拦截记录: 9
+[Loss]: -0.069198
+[EP_REWARD]: -23.200000
+[ROUND #32/50000] 当前推演耗时92s, 累计耗时2781s
+[FILES]: simple_推演_202303201948
+[MoziLog]: 爱国者2: 26	 爱国者3: 30	 效费比: 0.285714	 拦截率: 0.571429	 有拦截记录: 21	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: 0.661241
+[EP_REWARD]: -23.200000
+[ROUND #33/50000] 当前推演耗时86s, 累计耗时2867s
+[FILES]: simple_推演_202303201949
+[MoziLog]: 爱国者2: 26	 爱国者3: 28	 效费比: 0.370370	 拦截率: 0.625000	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: -0.069798
+[EP_REWARD]: -22.400000
+[ROUND #34/50000] 当前推演耗时94s, 累计耗时2962s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 34 MISS
+[ROUND #35/50000] 当前推演耗时85s, 累计耗时3048s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 35 MISS
+[ROUND #36/50000] 当前推演耗时91s, 累计耗时3140s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 36 MISS
+[ROUND #37/50000] 当前推演耗时94s, 累计耗时3234s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 37 MISS
+[ROUND #38/50000] 当前推演耗时90s, 累计耗时3324s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 38 MISS
+[ROUND #39/50000] 当前推演耗时91s, 累计耗时3415s
+[FILES]: simple_推演_202303201959
+[MoziLog]: 爱国者2: 25	 爱国者3: 32	 效费比: 0.333333	 拦截率: 0.593750	 有拦截记录: 22	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 3	 无拦截记录: 10
+[Loss]: 0.524793
+[EP_REWARD]: -26.400000
+[ROUND #40/50000] 当前推演耗时99s, 累计耗时3515s
+[FILES]: simple_推演_202303202000
+[MoziLog]: 爱国者2: 25	 爱国者3: 27	 效费比: 0.346154	 拦截率: 0.562500	 有拦截记录: 21	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 3	 无拦截记录: 11
+[Loss]: 1.699470
+[EP_REWARD]: -27.200000
+[ROUND #41/50000] 当前推演耗时90s, 累计耗时3606s
+[FILES]: simple_推演_202303202002
+[MoziLog]: 爱国者2: 21	 爱国者3: 32	 效费比: 0.433962	 拦截率: 0.718750	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 23	 记录拦截失败: 2	 无拦截记录: 7
+[Loss]: -0.599741
+[EP_REWARD]: -25.600000
+[ROUND #42/50000] 当前推演耗时89s, 累计耗时3696s
+[FILES]: simple_推演_202303202003
+[MoziLog]: 爱国者2: 25	 爱国者3: 22	 效费比: 0.297872	 拦截率: 0.500000	 有拦截记录: 19	 来袭数量: 28	 记录拦截成功: 14	 记录拦截失败: 5	 无拦截记录: 9
+[Loss]: 0.571795
+[EP_REWARD]: -28.000000
+[ROUND #43/50000] 当前推演耗时95s, 累计耗时3791s
+[FILES]: simple_推演_202303202005
+[MoziLog]: 爱国者2: 26	 爱国者3: 28	 效费比: 0.333333	 拦截率: 0.562500	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 6	 无拦截记录: 8
+[Loss]: -0.574663
+[EP_REWARD]: -22.400000
+[ROUND #44/50000] 当前推演耗时85s, 累计耗时3876s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 44 MISS
+[ROUND #45/50000] 当前推演耗时103s, 累计耗时3979s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 45 MISS
+[ROUND #46/50000] 当前推演耗时80s, 累计耗时4060s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 46 MISS
+[ROUND #47/50000] 当前推演耗时93s, 累计耗时4154s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 47 MISS
+[ROUND #48/50000] 当前推演耗时78s, 累计耗时4232s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 48 MISS
+[ROUND #49/50000] 当前推演耗时93s, 累计耗时4325s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 49 MISS
+[ROUND #50/50000] 当前推演耗时100s, 累计耗时4426s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 50 MISS
+[ROUND #51/50000] 当前推演耗时92s, 累计耗时4519s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 51 MISS
+[ROUND #52/50000] 当前推演耗时91s, 累计耗时4610s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 52 MISS
+[ROUND #53/50000] 当前推演耗时71s, 累计耗时4682s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 53 MISS
+[ROUND #54/50000] 当前推演耗时90s, 累计耗时4772s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 54 MISS
+[ROUND #55/50000] 当前推演耗时99s, 累计耗时4871s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 55 MISS
+[ROUND #56/50000] 当前推演耗时26s, 累计耗时4898s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 56 MISS
+[ROUND #57/50000] 当前推演耗时88s, 累计耗时4987s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 57 MISS
+[ROUND #58/50000] 当前推演耗时96s, 累计耗时5083s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 58 MISS
+[ROUND #59/50000] 当前推演耗时53s, 累计耗时5137s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 59 MISS
+[ROUND #60/50000] 当前推演耗时104s, 累计耗时5242s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 60 MISS
+[ROUND #61/50000] 当前推演耗时86s, 累计耗时5329s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 61 MISS
+[ROUND #62/50000] 当前推演耗时47s, 累计耗时5377s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 62 MISS
+[ROUND #63/50000] 当前推演耗时84s, 累计耗时5461s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 63 MISS
+[ROUND #64/50000] 当前推演耗时84s, 累计耗时5545s
+[FILES]: simple_推演_202303202034
+[MoziLog]: 爱国者2: 28	 爱国者3: 19	 效费比: 0.340426	 拦截率: 0.571429	 有拦截记录: 21	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: -1.067886
+[EP_REWARD]: -20.000000
+[ROUND #65/50000] 当前推演耗时98s, 累计耗时5644s
+[FILES]: simple_推演_202303202036
+[MoziLog]: 爱国者2: 21	 爱国者3: 13	 效费比: 0.176471	 拦截率: 0.375000	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: -3.493851
+[EP_REWARD]: -13.600000
+[ROUND #66/50000] 当前推演耗时54s, 累计耗时5699s
+[FILES]: simple_推演_202303202037
+[MoziLog]: 爱国者2: 28	 爱国者3: 32	 效费比: 0.233333	 拦截率: 0.500000	 有拦截记录: 20	 来袭数量: 28	 记录拦截成功: 14	 记录拦截失败: 6	 无拦截记录: 8
+[Loss]: 5.802598
+[EP_REWARD]: -20.800000
+[ROUND #67/50000] 当前推演耗时83s, 累计耗时5783s
+[FILES]: simple_推演_202303202038
+[MoziLog]: 爱国者2: 21	 爱国者3: 32	 效费比: 0.283019	 拦截率: 0.535714	 有拦截记录: 22	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 7	 无拦截记录: 6
+[Loss]: 2.626082
+[EP_REWARD]: -24.000000
+[ROUND #68/50000] 当前推演耗时88s, 累计耗时5871s
+[FILES]: simple_推演_202303202039
+[MoziLog]: 爱国者2: 27	 爱国者3: 19	 效费比: 0.347826	 拦截率: 0.571429	 有拦截记录: 23	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 7	 无拦截记录: 5
+[Loss]: 0.107119
+[EP_REWARD]: -22.400000
+[ROUND #69/50000] 当前推演耗时83s, 累计耗时5954s
+[FILES]: simple_推演_202303202041
+[MoziLog]: 爱国者2: 26	 爱国者3: 31	 效费比: 0.421053	 拦截率: 0.750000	 有拦截记录: 26	 来袭数量: 32	 记录拦截成功: 24	 记录拦截失败: 2	 无拦截记录: 6
+[Loss]: 1.202735
+[EP_REWARD]: -28.000000
+[ROUND #70/50000] 当前推演耗时101s, 累计耗时6055s
+[FILES]: simple_推演_202303202043
+[MoziLog]: 爱国者2: 25	 爱国者3: 28	 效费比: 0.396226	 拦截率: 0.656250	 有拦截记录: 26	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 5	 无拦截记录: 6
+[Loss]: -0.396925
+[EP_REWARD]: -25.600000
+[ROUND #71/50000] 当前推演耗时90s, 累计耗时6146s
+[FILES]: simple_推演_202303202044
+[MoziLog]: 爱国者2: 28	 爱国者3: 28	 效费比: 0.303571	 拦截率: 0.531250	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 17	 记录拦截失败: 7	 无拦截记录: 8
+[Loss]: -1.487335
+[EP_REWARD]: -20.800000
+[ROUND #72/50000] 当前推演耗时90s, 累计耗时6237s
+[FILES]: simple_推演_202303202046
+[MoziLog]: 爱国者2: 27	 爱国者3: 18	 效费比: 0.311111	 拦截率: 0.583333	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 0.059642
+[EP_REWARD]: -20.000000
+[ROUND #73/50000] 当前推演耗时71s, 累计耗时6308s
+[FILES]: simple_推演_202303202047
+[MoziLog]: 爱国者2: 14	 爱国者3: 4	 效费比: 0.333333	 拦截率: 0.375000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -8.494170
+[EP_REWARD]: -10.400000
+[ROUND #74/50000] 当前推演耗时42s, 累计耗时6351s
+[FILES]: simple_推演_202303202048
+[MoziLog]: 爱国者2: 26	 爱国者3: 30	 效费比: 0.357143	 拦截率: 0.555556	 有拦截记录: 27	 来袭数量: 36	 记录拦截成功: 20	 记录拦截失败: 7	 无拦截记录: 9
+[Loss]: 3.513868
+[EP_REWARD]: -26.400000
+[ROUND #75/50000] 当前推演耗时101s, 累计耗时6453s
+[FILES]: simple_推演_202303202049
+[MoziLog]: 爱国者2: 24	 爱国者3: 9	 效费比: 0.393939	 拦截率: 0.541667	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: -5.379000
+[EP_REWARD]: -16.000000
+[ROUND #76/50000] 当前推演耗时62s, 累计耗时6516s
+[FILES]: simple_推演_202303202050
+[MoziLog]: 爱国者2: 14	 爱国者3: 21	 效费比: 0.485714	 拦截率: 0.607143	 有拦截记录: 19	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 2	 无拦截记录: 9
+[Loss]: -0.854462
+[EP_REWARD]: -22.400000
+[ROUND #77/50000] 当前推演耗时85s, 累计耗时6602s
+[FILES]: simple_推演_202303202052
+[MoziLog]: 爱国者2: 28	 爱国者3: 28	 效费比: 0.392857	 拦截率: 0.611111	 有拦截记录: 23	 来袭数量: 36	 记录拦截成功: 22	 记录拦截失败: 1	 无拦截记录: 13
+[Loss]: 2.653724
+[EP_REWARD]: -25.600000
+[ROUND #78/50000] 当前推演耗时97s, 累计耗时6699s
+[FILES]: simple_推演_202303202053
+[MoziLog]: 爱国者2: 25	 爱国者3: 20	 效费比: 0.400000	 拦截率: 0.562500	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 7	 无拦截记录: 7
+[Loss]: -2.324979
+[EP_REWARD]: -23.200000
+[ROUND #79/50000] 当前推演耗时96s, 累计耗时6795s
+[FILES]: simple_推演_202303202055
+[MoziLog]: 爱国者2: 27	 爱国者3: 11	 效费比: 0.421053	 拦截率: 0.571429	 有拦截记录: 17	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 1	 无拦截记录: 11
+[Loss]: -0.315917
+[EP_REWARD]: -22.400000
+[ROUND #80/50000] 当前推演耗时97s, 累计耗时6893s
+[FILES]: simple_推演_202303202056
+[MoziLog]: 爱国者2: 24	 爱国者3: 23	 效费比: 0.382979	 拦截率: 0.562500	 有拦截记录: 22	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 4	 无拦截记录: 10
+[Loss]: 0.942462
+[EP_REWARD]: -22.400000
+[ROUND #81/50000] 当前推演耗时88s, 累计耗时6982s
+[FILES]: simple_推演_202303202058
+[MoziLog]: 爱国者2: 23	 爱国者3: 24	 效费比: 0.446809	 拦截率: 0.656250	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: -0.026767
+[EP_REWARD]: -25.600000
+[ROUND #82/50000] 当前推演耗时91s, 累计耗时7073s
+[FILES]: simple_推演_202303202059
+[MoziLog]: 爱国者2: 19	 爱国者3: 23	 效费比: 0.261905	 拦截率: 0.550000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -6.419603
+[EP_REWARD]: -18.400000
+[ROUND #83/50000] 当前推演耗时67s, 累计耗时7141s
+[FILES]: simple_推演_202303202101
+[MoziLog]: 爱国者2: 28	 爱国者3: 23	 效费比: 0.372549	 拦截率: 0.593750	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: 0.770432
+[EP_REWARD]: -24.000000
+[ROUND #84/50000] 当前推演耗时93s, 累计耗时7234s
+[FILES]: simple_推演_202303202102
+[MoziLog]: 爱国者2: 8	 爱国者3: 22	 效费比: 0.233333	 拦截率: 0.350000	 有拦截记录: 13	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 6	 无拦截记录: 7
+[Loss]: -10.711407
+[EP_REWARD]: -12.800000
+[ROUND #85/50000] 当前推演耗时65s, 累计耗时7299s
+[FILES]: simple_推演_202303202103
+[MoziLog]: 爱国者2: 6	 爱国者3: 3	 效费比: 0.000000	 拦截率: 0.000000	 有拦截记录: 8	 来袭数量: 8	 记录拦截成功: 0	 记录拦截失败: 8	 无拦截记录: 0
+[Loss]: -12.653667
+[EP_REWARD]: -7.200000
+[ROUND #86/50000] 当前推演耗时25s, 累计耗时7325s
+[FILES]: simple_推演_202303202104
+[MoziLog]: 爱国者2: 20	 爱国者3: 21	 效费比: 0.341463	 拦截率: 0.500000	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 4
+[Loss]: 0.722005
+[EP_REWARD]: -23.200000
+[ROUND #87/50000] 当前推演耗时83s, 累计耗时7408s
+[FILES]: simple_推演_202303202105
+[MoziLog]: 爱国者2: 8	 爱国者3: 23	 效费比: 0.419355	 拦截率: 0.541667	 有拦截记录: 17	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 4	 无拦截记录: 7
+[Loss]: -2.673824
+[EP_REWARD]: -20.000000
+[ROUND #88/50000] 当前推演耗时69s, 累计耗时7477s
+[FILES]: simple_推演_202303202106
+[MoziLog]: 爱国者2: 24	 爱国者3: 32	 效费比: 0.375000	 拦截率: 0.656250	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 4	 无拦截记录: 7
+[Loss]: 2.845241
+[EP_REWARD]: -22.400000
+[ROUND #89/50000] 当前推演耗时90s, 累计耗时7568s
+[FILES]: simple_推演_202303202108
+[MoziLog]: 爱国者2: 23	 爱国者3: 32	 效费比: 0.381818	 拦截率: 0.583333	 有拦截记录: 24	 来袭数量: 36	 记录拦截成功: 21	 记录拦截失败: 3	 无拦截记录: 12
+[Loss]: 0.218686
+[EP_REWARD]: -24.800000
+[ROUND #90/50000] 当前推演耗时102s, 累计耗时7671s
+[FILES]: simple_推演_202303202109
+[MoziLog]: 爱国者2: 15	 爱国者3: 27	 效费比: 0.428571	 拦截率: 0.562500	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 7	 无拦截记录: 7
+[Loss]: 0.829361
+[EP_REWARD]: -27.200000
+[ROUND #91/50000] 当前推演耗时96s, 累计耗时7768s
+[FILES]: simple_推演_202303202111
+[MoziLog]: 爱国者2: 8	 爱国者3: 22	 效费比: 0.366667	 拦截率: 0.550000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -7.846191
+[EP_REWARD]: -16.000000
+[ROUND #92/50000] 当前推演耗时61s, 累计耗时7829s
+[FILES]: simple_推演_202303202112
+[MoziLog]: 爱国者2: 20	 爱国者3: 29	 效费比: 0.428571	 拦截率: 0.583333	 有拦截记录: 27	 来袭数量: 36	 记录拦截成功: 21	 记录拦截失败: 6	 无拦截记录: 9
+[Loss]: 2.917979
+[EP_REWARD]: -28.000000
+[ROUND #93/50000] 当前推演耗时95s, 累计耗时7925s
+[FILES]: simple_推演_202303202114
+[MoziLog]: 爱国者2: 9	 爱国者3: 25	 效费比: 0.323529	 拦截率: 0.458333	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: -6.423204
+[EP_REWARD]: -19.200000
+[ROUND #94/50000] 当前推演耗时78s, 累计耗时8004s
+[FILES]: simple_推演_202303202115
+[MoziLog]: 爱国者2: 6	 爱国者3: 23	 效费比: 0.206897	 拦截率: 0.300000	 有拦截记录: 18	 来袭数量: 20	 记录拦截成功: 6	 记录拦截失败: 12	 无拦截记录: 2
+[Loss]: -7.283301
+[EP_REWARD]: -16.000000
+[ROUND #95/50000] 当前推演耗时72s, 累计耗时8077s
+[FILES]: simple_推演_202303202116
+[MoziLog]: 爱国者2: 6	 爱国者3: 7	 效费比: 0.384615	 拦截率: 0.625000	 有拦截记录: 6	 来袭数量: 8	 记录拦截成功: 5	 记录拦截失败: 1	 无拦截记录: 2
+[EP_REWARD]: -6.400000
+[ROUND #96/50000] 当前推演耗时23s, 累计耗时8100s
+[FILES]: simple_推演_202303202117
+[MoziLog]: 爱国者2: 14	 爱国者3: 16	 效费比: 0.333333	 拦截率: 0.416667	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 8
+[Loss]: -1.520303
+[EP_REWARD]: -16.000000
+[ROUND #97/50000] 当前推演耗时68s, 累计耗时8169s
+[FILES]: simple_推演_202303202118
+[MoziLog]: 爱国者2: 6	 爱国者3: 16	 效费比: 0.590909	 拦截率: 0.541667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -0.411422
+[EP_REWARD]: -19.200000
+[ROUND #98/50000] 当前推演耗时69s, 累计耗时8238s
+[FILES]: simple_推演_202303202119
+[MoziLog]: 爱国者2: 18	 爱国者3: 28	 效费比: 0.565217	 拦截率: 0.722222	 有拦截记录: 28	 来袭数量: 36	 记录拦截成功: 26	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: 4.101265
+[EP_REWARD]: -25.600000
+[ROUND #99/50000] 当前推演耗时91s, 累计耗时8329s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 99 MISS
+[ROUND #100/50000] 当前推演耗时98s, 累计耗时8427s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 100 MISS
+[ROUND #101/50000] 当前推演耗时63s, 累计耗时8491s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 101 MISS
+[ROUND #102/50000] 当前推演耗时87s, 累计耗时8579s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 102 MISS
+[ROUND #103/50000] 当前推演耗时92s, 累计耗时8671s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 103 MISS
+[ROUND #104/50000] 当前推演耗时95s, 累计耗时8766s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 104 MISS
+[ROUND #105/50000] 当前推演耗时91s, 累计耗时8858s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 105 MISS
+[ROUND #106/50000] 当前推演耗时80s, 累计耗时8939s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 106 MISS
+[ROUND #107/50000] 当前推演耗时76s, 累计耗时9015s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 107 MISS
+[ROUND #108/50000] 当前推演耗时74s, 累计耗时9089s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 108 MISS
+[ROUND #109/50000] 当前推演耗时67s, 累计耗时9156s
+[FILES]: simple_推演_202303202134
+[MoziLog]: 爱国者2: 10	 爱国者3: 14	 效费比: 0.291667	 拦截率: 0.437500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -6.906078
+[EP_REWARD]: -12.800000
+[ROUND #110/50000] 当前推演耗时61s, 累计耗时9218s
+[FILES]: simple_推演_202303202135
+[MoziLog]: 爱国者2: 7	 爱国者3: 23	 效费比: 0.466667	 拦截率: 0.583333	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: -1.061494
+[EP_REWARD]: -19.200000
+[ROUND #111/50000] 当前推演耗时66s, 累计耗时9284s
+[FILES]: simple_推演_202303202136
+[MoziLog]: 爱国者2: 7	 爱国者3: 20	 效费比: 0.555556	 拦截率: 0.625000	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 1	 无拦截记录: 8
+[Loss]: 0.273894
+[EP_REWARD]: -21.600000
+[ROUND #112/50000] 当前推演耗时74s, 累计耗时9358s
+[FILES]: simple_推演_202303202138
+[MoziLog]: 爱国者2: 11	 爱国者3: 14	 效费比: 0.560000	 拦截率: 0.583333	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 0.046688
+[EP_REWARD]: -20.000000
+[ROUND #113/50000] 当前推演耗时75s, 累计耗时9434s
+[FILES]: simple_推演_202303202139
+[MoziLog]: 爱国者2: 8	 爱国者3: 19	 效费比: 0.740741	 拦截率: 0.625000	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: 0.668975
+[EP_REWARD]: -22.400000
+[ROUND #114/50000] 当前推演耗时93s, 累计耗时9527s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 114 MISS
+[ROUND #115/50000] 当前推演耗时78s, 累计耗时9606s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 115 MISS
+[ROUND #116/50000] 当前推演耗时37s, 累计耗时9644s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 116 MISS
+[ROUND #117/50000] 当前推演耗时57s, 累计耗时9701s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 117 MISS
+[ROUND #118/50000] 当前推演耗时73s, 累计耗时9774s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 118 MISS
+[ROUND #119/50000] 当前推演耗时91s, 累计耗时9865s
+[FILES]: simple_推演_202303202146
+[MoziLog]: 爱国者2: 3	 爱国者3: 19	 效费比: 0.500000	 拦截率: 0.458333	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: -5.054646
+[EP_REWARD]: -16.000000
+[ROUND #120/50000] 当前推演耗时77s, 累计耗时9943s
+[FILES]: simple_推演_202303202147
+[MoziLog]: 爱国者2: 14	 爱国者3: 13	 效费比: 0.370370	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -0.467235
+[EP_REWARD]: -16.000000
+[ROUND #121/50000] 当前推演耗时66s, 累计耗时10009s
+[FILES]: simple_推演_202303202148
+[MoziLog]: 爱国者2: 13	 爱国者3: 14	 效费比: 0.370370	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 0.643254
+[EP_REWARD]: -16.000000
+[ROUND #122/50000] 当前推演耗时60s, 累计耗时10069s
+[FILES]: simple_推演_202303202149
+[MoziLog]: 爱国者2: 5	 爱国者3: 24	 效费比: 0.620690	 拦截率: 0.562500	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 6	 无拦截记录: 8
+[Loss]: 1.957140
+[EP_REWARD]: -22.400000
+[ROUND #123/50000] 当前推演耗时87s, 累计耗时10156s
+[FILES]: simple_推演_202303202151
+[MoziLog]: 爱国者2: 5	 爱国者3: 9	 效费比: 0.571429	 拦截率: 0.500000	 有拦截记录: 9	 来袭数量: 16	 记录拦截成功: 8	 记录拦截失败: 1	 无拦截记录: 7
+[Loss]: -8.419952
+[EP_REWARD]: -12.800000
+[ROUND #124/50000] 当前推演耗时51s, 累计耗时10208s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 124 MISS
+[ROUND #125/50000] 当前推演耗时87s, 累计耗时10296s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 125 MISS
+[ROUND #126/50000] 当前推演耗时87s, 累计耗时10384s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 126 MISS
+[ROUND #127/50000] 当前推演耗时42s, 累计耗时10427s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 127 MISS
+[ROUND #128/50000] 当前推演耗时94s, 累计耗时10521s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 128 MISS
+[ROUND #129/50000] 当前推演耗时64s, 累计耗时10585s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 129 MISS
+[ROUND #130/50000] 当前推演耗时84s, 累计耗时10670s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 130 MISS
+[ROUND #131/50000] 当前推演耗时39s, 累计耗时10709s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 131 MISS
+[ROUND #132/50000] 当前推演耗时67s, 累计耗时10776s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 132 MISS
+[ROUND #133/50000] 当前推演耗时91s, 累计耗时10868s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 133 MISS
+[ROUND #134/50000] 当前推演耗时86s, 累计耗时10954s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 134 MISS
+[ROUND #135/50000] 当前推演耗时100s, 累计耗时11055s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 135 MISS
+[ROUND #136/50000] 当前推演耗时74s, 累计耗时11130s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 136 MISS
+[ROUND #137/50000] 当前推演耗时46s, 累计耗时11177s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 137 MISS
+[ROUND #138/50000] 当前推演耗时62s, 累计耗时11239s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 138 MISS
+[ROUND #139/50000] 当前推演耗时62s, 累计耗时11302s
+[FILES]: simple_推演_202303202210
+[MoziLog]: 爱国者2: 5	 爱国者3: 24	 效费比: 0.655172	 拦截率: 0.678571	 有拦截记录: 25	 来袭数量: 28	 记录拦截成功: 19	 记录拦截失败: 6	 无拦截记录: 3
+[Loss]: 0.111479
+[EP_REWARD]: -22.400000
+[ROUND #140/50000] 当前推演耗时86s, 累计耗时11389s
+[FILES]: simple_推演_202303202211
+[MoziLog]: 爱国者2: 7	 爱国者3: 15	 效费比: 0.409091	 拦截率: 0.450000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -2.906008
+[EP_REWARD]: -16.800000
+[ROUND #141/50000] 当前推演耗时62s, 累计耗时11451s
+[FILES]: simple_推演_202303202212
+[MoziLog]: 爱国者2: 1	 爱国者3: 28	 效费比: 0.620690	 拦截率: 0.642857	 有拦截记录: 23	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 5	 无拦截记录: 5
+[Loss]: 1.700792
+[EP_REWARD]: -23.200000
+[ROUND #142/50000] 当前推演耗时91s, 累计耗时11542s
+[FILES]: simple_推演_202303202214
+[MoziLog]: 爱国者2: 8	 爱国者3: 26	 效费比: 0.529412	 拦截率: 0.642857	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 0.491628
+[EP_REWARD]: -23.200000
+[ROUND #143/50000] 当前推演耗时80s, 累计耗时11623s
+[FILES]: simple_推演_202303202215
+[MoziLog]: 爱国者2: 17	 爱国者3: 24	 效费比: 0.487805	 拦截率: 0.625000	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: -0.201449
+[EP_REWARD]: -22.400000
+[ROUND #144/50000] 当前推演耗时86s, 累计耗时11709s
+[FILES]: simple_推演_202303202217
+[MoziLog]: 爱国者2: 7	 爱国者3: 22	 效费比: 0.482759	 拦截率: 0.500000	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 4
+[Loss]: -1.891080
+[EP_REWARD]: -20.000000
+[ROUND #145/50000] 当前推演耗时84s, 累计耗时11794s
+[FILES]: simple_推演_202303202218
+[MoziLog]: 爱国者2: 8	 爱国者3: 16	 效费比: 0.625000	 拦截率: 0.625000	 有拦截记录: 21	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 6	 无拦截记录: 3
+[Loss]: 0.718724
+[EP_REWARD]: -19.200000
+[ROUND #146/50000] 当前推演耗时68s, 累计耗时11863s
+[FILES]: simple_推演_202303202219
+[MoziLog]: 爱国者2: 6	 爱国者3: 18	 效费比: 0.625000	 拦截率: 0.535714	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: -0.315600
+[EP_REWARD]: -19.200000
+[ROUND #147/50000] 当前推演耗时72s, 累计耗时11935s
+[FILES]: simple_推演_202303202220
+[MoziLog]: 爱国者2: 6	 爱国者3: 25	 效费比: 0.741935	 拦截率: 0.718750	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 23	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: 1.160452
+[EP_REWARD]: -22.400000
+[ROUND #148/50000] 当前推演耗时89s, 累计耗时12024s
+[FILES]: simple_推演_202303202222
+[MoziLog]: 爱国者2: 5	 爱国者3: 20	 效费比: 0.520000	 拦截率: 0.541667	 有拦截记录: 21	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 8	 无拦截记录: 3
+[Loss]: -2.678559
+[EP_REWARD]: -19.200000
+[ROUND #149/50000] 当前推演耗时71s, 累计耗时12096s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 149 MISS
+[ROUND #150/50000] 当前推演耗时85s, 累计耗时12182s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 150 MISS
+[ROUND #151/50000] 当前推演耗时77s, 累计耗时12260s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 151 MISS
+[ROUND #152/50000] 当前推演耗时77s, 累计耗时12337s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 152 MISS
+[ROUND #153/50000] 当前推演耗时93s, 累计耗时12430s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 153 MISS
+[ROUND #154/50000] 当前推演耗时80s, 累计耗时12510s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 154 MISS
+[ROUND #155/50000] 当前推演耗时102s, 累计耗时12612s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 155 MISS
+[ROUND #156/50000] 当前推演耗时73s, 累计耗时12686s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 156 MISS
+[ROUND #157/50000] 当前推演耗时90s, 累计耗时12776s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 157 MISS
+[ROUND #158/50000] 当前推演耗时42s, 累计耗时12818s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 158 MISS
+[ROUND #159/50000] 当前推演耗时75s, 累计耗时12894s
+[FILES]: simple_推演_202303202237
+[MoziLog]: 爱国者2: 8	 爱国者3: 25	 效费比: 0.666667	 拦截率: 0.687500	 有拦截记录: 26	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 4	 无拦截记录: 6
+[Loss]: 0.696608
+[EP_REWARD]: -22.400000
+[ROUND #160/50000] 当前推演耗时98s, 累计耗时12993s
+[FILES]: simple_推演_202303202238
+[MoziLog]: 爱国者2: 7	 爱国者3: 9	 效费比: 0.187500	 拦截率: 0.250000	 有拦截记录: 12	 来袭数量: 12	 记录拦截成功: 3	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -10.539871
+[EP_REWARD]: -9.600000
+[ROUND #161/50000] 当前推演耗时36s, 累计耗时13030s
+[FILES]: simple_推演_202303202239
+[MoziLog]: 爱国者2: 4	 爱国者3: 3	 效费比: 0.285714	 拦截率: 0.250000	 有拦截记录: 4	 来袭数量: 8	 记录拦截成功: 2	 记录拦截失败: 2	 无拦截记录: 4
+[EP_REWARD]: -3.200000
+[ROUND #162/50000] 当前推演耗时17s, 累计耗时13047s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 162 MISS
+[ROUND #163/50000] 当前推演耗时89s, 累计耗时13137s
+[FILES]: simple_推演_202303202241
+[MoziLog]: 爱国者2: 11	 爱国者3: 23	 效费比: 0.294118	 拦截率: 0.416667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 10	 记录拦截失败: 10	 无拦截记录: 4
+[Loss]: -1.959115
+[EP_REWARD]: -16.800000
+[ROUND #164/50000] 当前推演耗时72s, 累计耗时13210s
+[FILES]: simple_推演_202303202242
+[MoziLog]: 爱国者2: 5	 爱国者3: 27	 效费比: 0.625000	 拦截率: 0.625000	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: 3.564059
+[EP_REWARD]: -22.400000
+[ROUND #165/50000] 当前推演耗时92s, 累计耗时13302s
+[FILES]: simple_推演_202303202243
+[MoziLog]: 爱国者2: 5	 爱国者3: 19	 效费比: 0.583333	 拦截率: 0.583333	 有拦截记录: 21	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 7	 无拦截记录: 3
+[Loss]: -0.561654
+[EP_REWARD]: -19.200000
+[ROUND #166/50000] 当前推演耗时67s, 累计耗时13370s
+[FILES]: simple_推演_202303202244
+[MoziLog]: 爱国者2: 5	 爱国者3: 12	 效费比: 0.470588	 拦截率: 0.500000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 8	 记录拦截失败: 0	 无拦截记录: 8
+[Loss]: -9.299637
+[EP_REWARD]: -10.400000
+[ROUND #167/50000] 当前推演耗时40s, 累计耗时13410s
+[FILES]: simple_推演_202303202245
+[MoziLog]: 爱国者2: 8	 爱国者3: 30	 效费比: 0.552632	 拦截率: 0.656250	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 4	 无拦截记录: 7
+[Loss]: 4.449193
+[EP_REWARD]: -24.000000
+[ROUND #168/50000] 当前推演耗时82s, 累计耗时13492s
+[FILES]: simple_推演_202303202246
+[MoziLog]: 爱国者2: 4	 爱国者3: 27	 效费比: 0.645161	 拦截率: 0.625000	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: 0.811503
+[EP_REWARD]: -22.400000
+[ROUND #169/50000] 当前推演耗时90s, 累计耗时13582s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 169 MISS
+[ROUND #170/50000] 当前推演耗时72s, 累计耗时13655s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 170 MISS
+[ROUND #171/50000] 当前推演耗时60s, 累计耗时13716s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 171 MISS
+[ROUND #172/50000] 当前推演耗时62s, 累计耗时13778s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 172 MISS
+[ROUND #173/50000] 当前推演耗时71s, 累计耗时13849s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 173 MISS
+[ROUND #174/50000] 当前推演耗时90s, 累计耗时13939s
+[FILES]: simple_推演_202303202254
+[MoziLog]: 爱国者2: 4	 爱国者3: 26	 效费比: 0.600000	 拦截率: 0.620690	 有拦截记录: 29	 来袭数量: 29	 记录拦截成功: 18	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: 0.274300
+[EP_REWARD]: -23.200000
+[ROUND #175/50000] 当前推演耗时97s, 累计耗时14037s
+[FILES]: simple_推演_202303202256
+[MoziLog]: 爱国者2: 14	 爱国者3: 22	 效费比: 0.388889	 拦截率: 0.583333	 有拦截记录: 22	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 8	 无拦截记录: 2
+[Loss]: -2.223902
+[EP_REWARD]: -19.200000
+[ROUND #176/50000] 当前推演耗时69s, 累计耗时14106s
+[FILES]: simple_推演_202303202257
+[MoziLog]: 爱国者2: 11	 爱国者3: 29	 效费比: 0.450000	 拦截率: 0.642857	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 1.560067
+[EP_REWARD]: -22.400000
+[ROUND #177/50000] 当前推演耗时83s, 累计耗时14189s
+[FILES]: simple_推演_202303202258
+[MoziLog]: 爱国者2: 26	 爱国者3: 22	 效费比: 0.416667	 拦截率: 0.625000	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: 0.158466
+[EP_REWARD]: -23.200000
+[ROUND #178/50000] 当前推演耗时93s, 累计耗时14283s
+[FILES]: simple_推演_202303202300
+[MoziLog]: 爱国者2: 16	 爱国者3: 19	 效费比: 0.314286	 拦截率: 0.550000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -5.337179
+[EP_REWARD]: -16.000000
+[ROUND #179/50000] 当前推演耗时64s, 累计耗时14348s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 179 MISS
+[ROUND #180/50000] 当前推演耗时88s, 累计耗时14436s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 180 MISS
+[ROUND #181/50000] 当前推演耗时79s, 累计耗时14516s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 181 MISS
+[ROUND #182/50000] 当前推演耗时92s, 累计耗时14608s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 182 MISS
+[ROUND #183/50000] 当前推演耗时95s, 累计耗时14703s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 183 MISS
+[ROUND #184/50000] 当前推演耗时95s, 累计耗时14798s
+[FILES]: simple_推演_202303202308
+[MoziLog]: 爱国者2: 28	 爱国者3: 29	 效费比: 0.421053	 拦截率: 0.750000	 有拦截记录: 26	 来袭数量: 32	 记录拦截成功: 24	 记录拦截失败: 2	 无拦截记录: 6
+[Loss]: 2.618003
+[EP_REWARD]: -25.600000
+[ROUND #185/50000] 当前推演耗时101s, 累计耗时14900s
+[FILES]: simple_推演_202303202310
+[MoziLog]: 爱国者2: 28	 爱国者3: 23	 效费比: 0.313725	 拦截率: 0.571429	 有拦截记录: 26	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 10	 无拦截记录: 2
+[Loss]: -0.491645
+[EP_REWARD]: -23.200000
+[ROUND #186/50000] 当前推演耗时87s, 累计耗时14988s
+[FILES]: simple_推演_202303202311
+[MoziLog]: 爱国者2: 25	 爱国者3: 22	 效费比: 0.361702	 拦截率: 0.607143	 有拦截记录: 21	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 4	 无拦截记录: 7
+[Loss]: 0.039429
+[EP_REWARD]: -22.400000
+[ROUND #187/50000] 当前推演耗时94s, 累计耗时15083s
+[FILES]: simple_推演_202303202313
+[MoziLog]: 爱国者2: 7	 爱国者3: 28	 效费比: 0.428571	 拦截率: 0.625000	 有拦截记录: 21	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 6	 无拦截记录: 3
+[Loss]: -2.570989
+[EP_REWARD]: -19.200000
+[ROUND #188/50000] 当前推演耗时68s, 累计耗时15152s
+[FILES]: simple_推演_202303202314
+[MoziLog]: 爱国者2: 18	 爱国者3: 27	 效费比: 0.400000	 拦截率: 0.642857	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 1.010275
+[EP_REWARD]: -23.200000
+[ROUND #189/50000] 当前推演耗时83s, 累计耗时15235s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 189 MISS
+[ROUND #190/50000] 当前推演耗时63s, 累计耗时15298s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 190 MISS
+[ROUND #191/50000] 当前推演耗时55s, 累计耗时15354s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 191 MISS
+[ROUND #192/50000] 当前推演耗时92s, 累计耗时15446s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 192 MISS
+[ROUND #193/50000] 当前推演耗时94s, 累计耗时15540s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 193 MISS
+[ROUND #194/50000] 当前推演耗时76s, 累计耗时15617s
+[FILES]: simple_推演_202303202322
+[MoziLog]: 爱国者2: 22	 爱国者3: 30	 效费比: 0.423077	 拦截率: 0.687500	 有拦截记录: 29	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 7	 无拦截记录: 3
+[Loss]: 0.782300
+[EP_REWARD]: -26.400000
+[ROUND #195/50000] 当前推演耗时101s, 累计耗时15719s
+[FILES]: simple_推演_202303202324
+[MoziLog]: 爱国者2: 27	 爱国者3: 23	 效费比: 0.480000	 拦截率: 0.666667	 有拦截记录: 29	 来袭数量: 36	 记录拦截成功: 24	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: -0.082888
+[EP_REWARD]: -26.400000
+[ROUND #196/50000] 当前推演耗时93s, 累计耗时15813s
+[FILES]: simple_推演_202303202325
+[MoziLog]: 爱国者2: 7	 爱国者3: 32	 效费比: 0.435897	 拦截率: 0.531250	 有拦截记录: 19	 来袭数量: 32	 记录拦截成功: 17	 记录拦截失败: 2	 无拦截记录: 13
+[Loss]: -1.686851
+[EP_REWARD]: -22.400000
+[ROUND #197/50000] 当前推演耗时96s, 累计耗时15909s
+[FILES]: simple_推演_202303202327
+[MoziLog]: 爱国者2: 25	 爱国者3: 25	 效费比: 0.360000	 拦截率: 0.562500	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 5	 无拦截记录: 9
+[Loss]: 0.873266
+[EP_REWARD]: -22.400000
+[ROUND #198/50000] 当前推演耗时90s, 累计耗时16000s
+[FILES]: simple_推演_202303202328
+[MoziLog]: 爱国者2: 10	 爱国者3: 20	 效费比: 0.433333	 拦截率: 0.541667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -4.139780
+[EP_REWARD]: -19.200000
+[ROUND #199/50000] 当前推演耗时76s, 累计耗时16076s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 199 MISS
+[ROUND #200/50000] 当前推演耗时102s, 累计耗时16179s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 200 MISS
+[ROUND #201/50000] 当前推演耗时91s, 累计耗时16271s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 201 MISS
+[ROUND #202/50000] 当前推演耗时84s, 累计耗时16355s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 202 MISS
+[ROUND #203/50000] 当前推演耗时95s, 累计耗时16451s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 203 MISS
+[ROUND #204/50000] 当前推演耗时70s, 累计耗时16522s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 204 MISS
+[ROUND #205/50000] 当前推演耗时88s, 累计耗时16610s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 205 MISS
+[ROUND #206/50000] 当前推演耗时92s, 累计耗时16703s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 206 MISS
+[ROUND #207/50000] 当前推演耗时59s, 累计耗时16762s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 207 MISS
+[ROUND #208/50000] 当前推演耗时49s, 累计耗时16811s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 208 MISS
+[ROUND #209/50000] 当前推演耗时48s, 累计耗时16859s
+[FILES]: simple_推演_202303202343
+[MoziLog]: 爱国者2: 17	 爱国者3: 27	 效费比: 0.522727	 拦截率: 0.718750	 有拦截记录: 26	 来袭数量: 32	 记录拦截成功: 23	 记录拦截失败: 3	 无拦截记录: 6
+[Loss]: 0.026703
+[EP_REWARD]: -22.400000
+[ROUND #210/50000] 当前推演耗时97s, 累计耗时16957s
+[FILES]: simple_推演_202303202344
+[MoziLog]: 爱国者2: 15	 爱国者3: 32	 效费比: 0.425532	 拦截率: 0.625000	 有拦截记录: 29	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 9	 无拦截记录: 3
+[Loss]: 2.011271
+[EP_REWARD]: -24.800000
+[ROUND #211/50000] 当前推演耗时89s, 累计耗时17047s
+[FILES]: simple_推演_202303202346
+[MoziLog]: 爱国者2: 14	 爱国者3: 25	 效费比: 0.538462	 拦截率: 0.656250	 有拦截记录: 22	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 1	 无拦截记录: 10
+[Loss]: -3.327073
+[EP_REWARD]: -23.200000
+[ROUND #212/50000] 当前推演耗时92s, 累计耗时17139s
+[FILES]: simple_推演_202303202347
+[MoziLog]: 爱国者2: 14	 爱国者3: 10	 效费比: 0.458333	 拦截率: 0.687500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 0
+[Loss]: -9.004004
+[EP_REWARD]: -12.800000
+[ROUND #213/50000] 当前推演耗时51s, 累计耗时17190s
+[FILES]: simple_推演_202303202348
+[MoziLog]: 爱国者2: 26	 爱国者3: 19	 效费比: 0.488889	 拦截率: 0.687500	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 0.477920
+[EP_REWARD]: -22.400000
+[ROUND #214/50000] 当前推演耗时90s, 累计耗时17281s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 214 MISS
+[ROUND #215/50000] 当前推演耗时49s, 累计耗时17331s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 215 MISS
+[ROUND #216/50000] 当前推演耗时89s, 累计耗时17420s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 216 MISS
+[ROUND #217/50000] 当前推演耗时84s, 累计耗时17504s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 217 MISS
+[ROUND #218/50000] 当前推演耗时68s, 累计耗时17572s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 218 MISS
+[ROUND #219/50000] 当前推演耗时95s, 累计耗时17667s
+[FILES]: simple_推演_202303202356
+[MoziLog]: 爱国者2: 12	 爱国者3: 21	 效费比: 0.484848	 拦截率: 0.571429	 有拦截记录: 21	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: -1.716217
+[EP_REWARD]: -19.200000
+[ROUND #220/50000] 当前推演耗时83s, 累计耗时17751s
+[FILES]: simple_推演_202303202357
+[MoziLog]: 爱国者2: 9	 爱国者3: 16	 效费比: 0.480000	 拦截率: 0.500000	 有拦截记录: 18	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 6	 无拦截记录: 6
+[Loss]: -0.366879
+[EP_REWARD]: -19.200000
+[ROUND #221/50000] 当前推演耗时73s, 累计耗时17825s
+[FILES]: simple_推演_202303202359
+[MoziLog]: 爱国者2: 24	 爱国者3: 19	 效费比: 0.418605	 拦截率: 0.562500	 有拦截记录: 26	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 8	 无拦截记录: 6
+[Loss]: 2.764024
+[EP_REWARD]: -22.400000
+[ROUND #222/50000] 当前推演耗时90s, 累计耗时17915s
+[FILES]: simple_推演_202303210000
+[MoziLog]: 爱国者2: 9	 爱国者3: 16	 效费比: 0.480000	 拦截率: 0.500000	 有拦截记录: 21	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 9	 无拦截记录: 3
+[Loss]: -1.713283
+[EP_REWARD]: -20.000000
+[ROUND #223/50000] 当前推演耗时78s, 累计耗时17993s
+[FILES]: simple_推演_202303210001
+[MoziLog]: 爱国者2: 17	 爱国者3: 20	 效费比: 0.459459	 拦截率: 0.531250	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 17	 记录拦截失败: 11	 无拦截记录: 4
+[Loss]: 1.738712
+[EP_REWARD]: -22.400000
+[ROUND #224/50000] 当前推演耗时83s, 累计耗时18076s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 224 MISS
+[ROUND #225/50000] 当前推演耗时100s, 累计耗时18177s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 225 MISS
+[ROUND #226/50000] 当前推演耗时88s, 累计耗时18266s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 226 MISS
+[ROUND #227/50000] 当前推演耗时91s, 累计耗时18357s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 227 MISS
+[ROUND #228/50000] 当前推演耗时94s, 累计耗时18451s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 228 MISS
+[ROUND #229/50000] 当前推演耗时96s, 累计耗时18547s
+[FILES]: simple_推演_202303210011
+[MoziLog]: 爱国者2: 12	 爱国者3: 15	 效费比: 0.444444	 拦截率: 0.600000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 12	 记录拦截失败: 8	 无拦截记录: 0
+[Loss]: -4.745650
+[EP_REWARD]: -16.000000
+[ROUND #230/50000] 当前推演耗时68s, 累计耗时18615s
+[FILES]: simple_推演_202303210012
+[MoziLog]: 爱国者2: 18	 爱国者3: 17	 效费比: 0.542857	 拦截率: 0.678571	 有拦截记录: 21	 来袭数量: 28	 记录拦截成功: 19	 记录拦截失败: 2	 无拦截记录: 7
+[Loss]: 0.247738
+[EP_REWARD]: -22.400000
+[ROUND #231/50000] 当前推演耗时75s, 累计耗时18691s
+[FILES]: simple_推演_202303210013
+[MoziLog]: 爱国者2: 10	 爱国者3: 24	 效费比: 0.500000	 拦截率: 0.607143	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -0.052255
+[EP_REWARD]: -22.400000
+[ROUND #232/50000] 当前推演耗时84s, 累计耗时18775s
+[FILES]: simple_推演_202303210014
+[MoziLog]: 爱国者2: 8	 爱国者3: 22	 效费比: 0.600000	 拦截率: 0.642857	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: -0.521514
+[EP_REWARD]: -22.400000
+[ROUND #233/50000] 当前推演耗时80s, 累计耗时18855s
+[FILES]: simple_推演_202303210016
+[MoziLog]: 爱国者2: 1	 爱国者3: 26	 效费比: 0.703704	 拦截率: 0.678571	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 19	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: 0.626933
+[EP_REWARD]: -22.400000
+[ROUND #234/50000] 当前推演耗时88s, 累计耗时18943s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 234 MISS
+[ROUND #235/50000] 当前推演耗时83s, 累计耗时19027s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 235 MISS
+[ROUND #236/50000] 当前推演耗时57s, 累计耗时19085s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 236 MISS
+[ROUND #237/50000] 当前推演耗时75s, 累计耗时19160s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 237 MISS
+[ROUND #238/50000] 当前推演耗时79s, 累计耗时19239s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 238 MISS
+[ROUND #239/50000] 当前推演耗时69s, 累计耗时19308s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 239 MISS
+[ROUND #240/50000] 当前推演耗时70s, 累计耗时19378s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 240 MISS
+[ROUND #241/50000] 当前推演耗时72s, 累计耗时19451s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 241 MISS
+[ROUND #242/50000] 当前推演耗时91s, 累计耗时19542s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 242 MISS
+[ROUND #243/50000] 当前推演耗时95s, 累计耗时19638s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 243 MISS
+[ROUND #244/50000] 当前推演耗时93s, 累计耗时19731s
+[FILES]: simple_推演_202303210031
+[MoziLog]: 爱国者2: 7	 爱国者3: 12	 效费比: 0.526316	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -6.108386
+[EP_REWARD]: -16.000000
+[ROUND #245/50000] 当前推演耗时77s, 累计耗时19809s
+[FILES]: simple_推演_202303210032
+[MoziLog]: 爱国者2: 7	 爱国者3: 13	 效费比: 0.650000	 拦截率: 0.650000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 13	 记录拦截失败: 3	 无拦截记录: 4
+[Loss]: -7.051984
+[EP_REWARD]: -12.800000
+[ROUND #246/50000] 当前推演耗时43s, 累计耗时19853s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 246 MISS
+[ROUND #247/50000] 当前推演耗时44s, 累计耗时19898s
+[FILES]: simple_推演_202303210033
+[MoziLog]: 爱国者2: 9	 爱国者3: 7	 效费比: 0.312500	 拦截率: 0.312500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -4.538405
+[EP_REWARD]: -12.800000
+[ROUND #248/50000] 当前推演耗时54s, 累计耗时19952s
+[FILES]: simple_推演_202303210034
+[MoziLog]: 爱国者2: 6	 爱国者3: 29	 效费比: 0.657143	 拦截率: 0.638889	 有拦截记录: 32	 来袭数量: 36	 记录拦截成功: 23	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: 4.962948
+[EP_REWARD]: -25.600000
+[ROUND #249/50000] 当前推演耗时92s, 累计耗时20044s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 249 MISS
+[ROUND #250/50000] 当前推演耗时60s, 累计耗时20105s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 250 MISS
+[ROUND #251/50000] 当前推演耗时58s, 累计耗时20163s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 251 MISS
+[ROUND #252/50000] 当前推演耗时73s, 累计耗时20236s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 252 MISS
+[ROUND #253/50000] 当前推演耗时82s, 累计耗时20319s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 253 MISS
+[ROUND #254/50000] 当前推演耗时63s, 累计耗时20383s
+[FILES]: simple_推演_202303210042
+[MoziLog]: 爱国者2: 6	 爱国者3: 13	 效费比: 0.368421	 拦截率: 0.437500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -4.219347
+[EP_REWARD]: -12.800000
+[ROUND #255/50000] 当前推演耗时62s, 累计耗时20445s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 255 MISS
+[ROUND #256/50000] 当前推演耗时87s, 累计耗时20533s
+[FILES]: simple_推演_202303210044
+[MoziLog]: 爱国者2: 6	 爱国者3: 23	 效费比: 0.655172	 拦截率: 0.593750	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: 1.748334
+[EP_REWARD]: -22.400000
+[ROUND #257/50000] 当前推演耗时91s, 累计耗时20624s
+[FILES]: simple_推演_202303210045
+[MoziLog]: 爱国者2: 8	 爱国者3: 13	 效费比: 0.428571	 拦截率: 0.450000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -3.613073
+[EP_REWARD]: -16.000000
+[ROUND #258/50000] 当前推演耗时64s, 累计耗时20689s
+[FILES]: simple_推演_202303210046
+[MoziLog]: 爱国者2: 6	 爱国者3: 13	 效费比: 0.526316	 拦截率: 0.500000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -4.617013
+[EP_REWARD]: -12.800000
+[ROUND #259/50000] 当前推演耗时43s, 累计耗时20733s
+[FILES]: simple_推演_202303210047
+[MoziLog]: 爱国者2: 5	 爱国者3: 25	 效费比: 0.700000	 拦截率: 0.656250	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 3.084844
+[EP_REWARD]: -22.400000
+[ROUND #260/50000] 当前推演耗时98s, 累计耗时20832s
+[FILES]: simple_推演_202303210049
+[MoziLog]: 爱国者2: 5	 爱国者3: 16	 效费比: 0.523810	 拦截率: 0.550000	 有拦截记录: 17	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 6	 无拦截记录: 3
+[Loss]: -1.787908
+[EP_REWARD]: -16.000000
+[ROUND #261/50000] 当前推演耗时57s, 累计耗时20890s
+[FILES]: simple_推演_202303210050
+[MoziLog]: 爱国者2: 8	 爱国者3: 29	 效费比: 0.648649	 拦截率: 0.666667	 有拦截记录: 28	 来袭数量: 36	 记录拦截成功: 24	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 3.971418
+[EP_REWARD]: -26.400000
+[ROUND #262/50000] 当前推演耗时94s, 累计耗时20985s
+[FILES]: simple_推演_202303210051
+[MoziLog]: 爱国者2: 11	 爱国者3: 22	 效费比: 0.515152	 拦截率: 0.607143	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: 0.639931
+[EP_REWARD]: -22.400000
+[ROUND #263/50000] 当前推演耗时85s, 累计耗时21071s
+[FILES]: simple_推演_202303210053
+[MoziLog]: 爱国者2: 0	 爱国者3: 4	 效费比: 1.000000	 拦截率: 0.333333	 有拦截记录: 4	 来袭数量: 12	 记录拦截成功: 4	 记录拦截失败: 0	 无拦截记录: 8
+[EP_REWARD]: -6.400000
+[ROUND #264/50000] 当前推演耗时30s, 累计耗时21102s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 264 MISS
+[ROUND #265/50000] 当前推演耗时73s, 累计耗时21176s
+[FILES]: simple_推演_202303210055
+[MoziLog]: 爱国者2: 4	 爱国者3: 26	 效费比: 0.666667	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 0.033972
+[EP_REWARD]: -22.400000
+[ROUND #266/50000] 当前推演耗时88s, 累计耗时21264s
+[FILES]: simple_推演_202303210056
+[MoziLog]: 爱国者2: 8	 爱国者3: 19	 效费比: 0.407407	 拦截率: 0.550000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -5.447341
+[EP_REWARD]: -16.000000
+[ROUND #267/50000] 当前推演耗时56s, 累计耗时21321s
+[FILES]: simple_推演_202303210057
+[MoziLog]: 爱国者2: 12	 爱国者3: 26	 效费比: 0.394737	 拦截率: 0.535714	 有拦截记录: 22	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 7	 无拦截记录: 6
+[Loss]: -0.942778
+[EP_REWARD]: -19.200000
+[ROUND #268/50000] 当前推演耗时67s, 累计耗时21389s
+[FILES]: simple_推演_202303210058
+[MoziLog]: 爱国者2: 11	 爱国者3: 12	 效费比: 0.434783	 拦截率: 0.416667	 有拦截记录: 14	 来袭数量: 24	 记录拦截成功: 10	 记录拦截失败: 4	 无拦截记录: 10
+[Loss]: -1.067068
+[EP_REWARD]: -16.000000
+[ROUND #269/50000] 当前推演耗时67s, 累计耗时21456s
+[FILES]: simple_推演_202303210059
+[MoziLog]: 爱国者2: 9	 爱国者3: 19	 效费比: 0.500000	 拦截率: 0.583333	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 1.887799
+[EP_REWARD]: -19.200000
+[ROUND #270/50000] 当前推演耗时81s, 累计耗时21538s
+[FILES]: simple_推演_202303210101
+[MoziLog]: 爱国者2: 8	 爱国者3: 17	 效费比: 0.360000	 拦截率: 0.450000	 有拦截记录: 13	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 4	 无拦截记录: 7
+[Loss]: -0.527041
+[EP_REWARD]: -16.000000
+[ROUND #271/50000] 当前推演耗时56s, 累计耗时21595s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 271 MISS
+[ROUND #272/50000] 当前推演耗时84s, 累计耗时21680s
+[FILES]: simple_推演_202303210103
+[MoziLog]: 爱国者2: 14	 爱国者3: 26	 效费比: 0.300000	 拦截率: 0.500000	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: 0.686006
+[EP_REWARD]: -19.200000
+[ROUND #273/50000] 当前推演耗时85s, 累计耗时21765s
+[FILES]: simple_推演_202303210104
+[MoziLog]: 爱国者2: 18	 爱国者3: 21	 效费比: 0.512821	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 1.778245
+[EP_REWARD]: -22.400000
+[ROUND #274/50000] 当前推演耗时83s, 累计耗时21848s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 274 MISS
+[ROUND #275/50000] 当前推演耗时101s, 累计耗时21950s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 275 MISS
+[ROUND #276/50000] 当前推演耗时91s, 累计耗时22042s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 276 MISS
+[ROUND #277/50000] 当前推演耗时83s, 累计耗时22125s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 277 MISS
+[ROUND #278/50000] 当前推演耗时30s, 累计耗时22156s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 278 MISS
+[ROUND #279/50000] 当前推演耗时100s, 累计耗时22256s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 279 MISS
+[ROUND #280/50000] 当前推演耗时101s, 累计耗时22357s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 280 MISS
+[ROUND #281/50000] 当前推演耗时31s, 累计耗时22389s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 281 MISS
+[ROUND #282/50000] 当前推演耗时50s, 累计耗时22440s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 282 MISS
+[ROUND #283/50000] 当前推演耗时89s, 累计耗时22530s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 283 MISS
+[ROUND #284/50000] 当前推演耗时92s, 累计耗时22622s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 284 MISS
+[ROUND #285/50000] 当前推演耗时101s, 累计耗时22724s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 285 MISS
+[ROUND #286/50000] 当前推演耗时83s, 累计耗时22808s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 286 MISS
+[ROUND #287/50000] 当前推演耗时43s, 累计耗时22852s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 287 MISS
+[ROUND #288/50000] 当前推演耗时47s, 累计耗时22899s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 288 MISS
+[ROUND #289/50000] 当前推演耗时91s, 累计耗时22990s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 289 MISS
+[ROUND #290/50000] 当前推演耗时80s, 累计耗时23071s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 290 MISS
+[ROUND #291/50000] 当前推演耗时60s, 累计耗时23131s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 291 MISS
+[ROUND #292/50000] 当前推演耗时91s, 累计耗时23222s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 292 MISS
+[ROUND #293/50000] 当前推演耗时83s, 累计耗时23305s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 293 MISS
+[ROUND #294/50000] 当前推演耗时93s, 累计耗时23399s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 294 MISS
+[ROUND #295/50000] 当前推演耗时60s, 累计耗时23459s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 295 MISS
+[ROUND #296/50000] 当前推演耗时88s, 累计耗时23548s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 296 MISS
+[ROUND #297/50000] 当前推演耗时70s, 累计耗时23619s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 297 MISS
+[ROUND #298/50000] 当前推演耗时69s, 累计耗时23688s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 298 MISS
+[ROUND #299/50000] 当前推演耗时91s, 累计耗时23780s
+[FILES]: simple_推演_202303210138
+[MoziLog]: 爱国者2: 1	 爱国者3: 10	 效费比: 0.454545	 拦截率: 0.416667	 有拦截记录: 5	 来袭数量: 12	 记录拦截成功: 5	 记录拦截失败: 0	 无拦截记录: 7
+[EP_REWARD]: -6.400000
+[ROUND #300/50000] 当前推演耗时36s, 累计耗时23817s
+[FILES]: simple_推演_202303210139
+[MoziLog]: 爱国者2: 5	 爱国者3: 12	 效费比: 0.411765	 拦截率: 0.437500	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 1	 无拦截记录: 8
+[Loss]: -8.658830
+[EP_REWARD]: -9.600000
+[ROUND #301/50000] 当前推演耗时38s, 累计耗时23856s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 301 MISS
+[ROUND #302/50000] 当前推演耗时70s, 累计耗时23927s
+[FILES]: simple_推演_202303210140
+[MoziLog]: 爱国者2: 6	 爱国者3: 23	 效费比: 0.344828	 拦截率: 0.500000	 有拦截记录: 14	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 4	 无拦截记录: 6
+[Loss]: -3.073247
+[EP_REWARD]: -16.800000
+[ROUND #303/50000] 当前推演耗时52s, 累计耗时23979s
+[FILES]: simple_推演_202303210141
+[MoziLog]: 爱国者2: 19	 爱国者3: 32	 效费比: 0.450980	 拦截率: 0.638889	 有拦截记录: 25	 来袭数量: 36	 记录拦截成功: 23	 记录拦截失败: 2	 无拦截记录: 11
+[Loss]: 4.127440
+[EP_REWARD]: -25.600000
+[ROUND #304/50000] 当前推演耗时93s, 累计耗时24072s
+[FILES]: simple_推演_202303210143
+[MoziLog]: 爱国者2: 11	 爱国者3: 31	 效费比: 0.357143	 拦截率: 0.625000	 有拦截记录: 18	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 3	 无拦截记录: 6
+[Loss]: -0.610142
+[EP_REWARD]: -20.000000
+[ROUND #305/50000] 当前推演耗时77s, 累计耗时24150s
+[FILES]: simple_推演_202303210144
+[MoziLog]: 爱国者2: 15	 爱国者3: 13	 效费比: 0.285714	 拦截率: 0.400000	 有拦截记录: 13	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: -5.544276
+[EP_REWARD]: -12.800000
+[ROUND #306/50000] 当前推演耗时54s, 累计耗时24204s
+[FILES]: simple_推演_202303210145
+[MoziLog]: 爱国者2: 13	 爱国者3: 20	 效费比: 0.333333	 拦截率: 0.550000	 有拦截记录: 18	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 7	 无拦截记录: 2
+[Loss]: -0.065233
+[EP_REWARD]: -16.000000
+[ROUND #307/50000] 当前推演耗时60s, 累计耗时24264s
+[FILES]: simple_推演_202303210146
+[MoziLog]: 爱国者2: 6	 爱国者3: 14	 效费比: 0.200000	 拦截率: 0.250000	 有拦截记录: 11	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 7	 无拦截记录: 5
+[Loss]: -1.731122
+[EP_REWARD]: -12.800000
+[ROUND #308/50000] 当前推演耗时50s, 累计耗时24315s
+[FILES]: simple_推演_202303210147
+[MoziLog]: 爱国者2: 7	 爱国者3: 10	 效费比: 0.411765	 拦截率: 0.350000	 有拦截记录: 7	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 0	 无拦截记录: 13
+[Loss]: -1.201084
+[EP_REWARD]: -12.000000
+[ROUND #309/50000] 当前推演耗时48s, 累计耗时24363s
+[FILES]: simple_推演_202303210148
+[MoziLog]: 爱国者2: 8	 爱国者3: 7	 效费比: 0.466667	 拦截率: 0.350000	 有拦截记录: 8	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 1	 无拦截记录: 12
+[Loss]: 0.450847
+[EP_REWARD]: -12.800000
+[ROUND #310/50000] 当前推演耗时67s, 累计耗时24431s
+[FILES]: simple_推演_202303210149
+[MoziLog]: 爱国者2: 10	 爱国者3: 26	 效费比: 0.416667	 拦截率: 0.625000	 有拦截记录: 17	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 2	 无拦截记录: 7
+[Loss]: 2.248882
+[EP_REWARD]: -16.000000
+[ROUND #311/50000] 当前推演耗时54s, 累计耗时24486s
+[FILES]: simple_推演_202303210150
+[MoziLog]: 爱国者2: 11	 爱国者3: 31	 效费比: 0.357143	 拦截率: 0.535714	 有拦截记录: 18	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 3	 无拦截记录: 10
+[Loss]: 4.665092
+[EP_REWARD]: -22.400000
+[ROUND #312/50000] 当前推演耗时83s, 累计耗时24569s
+[FILES]: simple_推演_202303210151
+[MoziLog]: 爱国者2: 14	 爱国者3: 15	 效费比: 0.379310	 拦截率: 0.458333	 有拦截记录: 14	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 3	 无拦截记录: 10
+[Loss]: -2.666131
+[EP_REWARD]: -16.000000
+[ROUND #313/50000] 当前推演耗时66s, 累计耗时24636s
+[FILES]: simple_推演_202303210152
+[MoziLog]: 爱国者2: 20	 爱国者3: 21	 效费比: 0.439024	 拦截率: 0.562500	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 5	 无拦截记录: 9
+[Loss]: 2.236023
+[EP_REWARD]: -22.400000
+[ROUND #314/50000] 当前推演耗时93s, 累计耗时24729s
+[FILES]: simple_推演_202303210154
+[MoziLog]: 爱国者2: 16	 爱国者3: 31	 效费比: 0.361702	 拦截率: 0.607143	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -0.063494
+[EP_REWARD]: -21.600000
+[ROUND #315/50000] 当前推演耗时88s, 累计耗时24818s
+[FILES]: simple_推演_202303210155
+[MoziLog]: 爱国者2: 27	 爱国者3: 31	 效费比: 0.362069	 拦截率: 0.583333	 有拦截记录: 23	 来袭数量: 36	 记录拦截成功: 21	 记录拦截失败: 2	 无拦截记录: 13
+[Loss]: 3.180406
+[EP_REWARD]: -25.600000
+[ROUND #316/50000] 当前推演耗时84s, 累计耗时24903s
+[FILES]: simple_推演_202303210157
+[MoziLog]: 爱国者2: 17	 爱国者3: 32	 效费比: 0.367347	 拦截率: 0.642857	 有拦截记录: 26	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 8	 无拦截记录: 2
+[Loss]: -1.453933
+[EP_REWARD]: -23.200000
+[ROUND #317/50000] 当前推演耗时83s, 累计耗时24986s
+[FILES]: simple_推演_202303210158
+[MoziLog]: 爱国者2: 10	 爱国者3: 10	 效费比: 0.350000	 拦截率: 0.437500	 有拦截记录: 9	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 2	 无拦截记录: 7
+[Loss]: -11.492126
+[EP_REWARD]: -9.600000
+[ROUND #318/50000] 当前推演耗时38s, 累计耗时25025s
+[FILES]: simple_推演_202303210159
+[MoziLog]: 爱国者2: 22	 爱国者3: 29	 效费比: 0.411765	 拦截率: 0.656250	 有拦截记录: 27	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 6	 无拦截记录: 5
+[Loss]: 2.051523
+[EP_REWARD]: -25.600000
+[ROUND #319/50000] 当前推演耗时93s, 累计耗时25118s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 319 MISS
+[ROUND #320/50000] 当前推演耗时86s, 累计耗时25204s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 320 MISS
+[ROUND #321/50000] 当前推演耗时45s, 累计耗时25250s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 321 MISS
+[ROUND #322/50000] 当前推演耗时73s, 累计耗时25323s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 322 MISS
+[ROUND #323/50000] 当前推演耗时86s, 累计耗时25409s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 323 MISS
+[ROUND #324/50000] 当前推演耗时67s, 累计耗时25477s
+[FILES]: simple_推演_202303210206
+[MoziLog]: 爱国者2: 8	 爱国者3: 20	 效费比: 0.392857	 拦截率: 0.458333	 有拦截记录: 18	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 7	 无拦截记录: 6
+[Loss]: -4.384310
+[EP_REWARD]: -19.200000
+[ROUND #325/50000] 当前推演耗时79s, 累计耗时25557s
+[FILES]: simple_推演_202303210208
+[MoziLog]: 爱国者2: 18	 爱国者3: 21	 效费比: 0.333333	 拦截率: 0.541667	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: -2.912096
+[EP_REWARD]: -19.200000
+[ROUND #326/50000] 当前推演耗时76s, 累计耗时25634s
+[FILES]: simple_推演_202303210209
+[MoziLog]: 爱国者2: 17	 爱国者3: 21	 效费比: 0.526316	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 1.501337
+[EP_REWARD]: -22.400000
+[ROUND #327/50000] 当前推演耗时98s, 累计耗时25732s
+[FILES]: simple_推演_202303210210
+[MoziLog]: 爱国者2: 28	 爱国者3: 28	 效费比: 0.339286	 拦截率: 0.593750	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: 1.487942
+[EP_REWARD]: -25.600000
+[ROUND #328/50000] 当前推演耗时96s, 累计耗时25828s
+[FILES]: simple_推演_202303210212
+[MoziLog]: 爱国者2: 5	 爱国者3: 31	 效费比: 0.416667	 拦截率: 0.535714	 有拦截记录: 23	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 8	 无拦截记录: 5
+[Loss]: -2.544945
+[EP_REWARD]: -22.400000
+[ROUND #329/50000] 当前推演耗时86s, 累计耗时25914s
+[FILES]: simple_推演_202303210214
+[MoziLog]: 爱国者2: 5	 爱国者3: 20	 效费比: 0.320000	 拦截率: 0.400000	 有拦截记录: 11	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 3	 无拦截记录: 9
+[Loss]: -8.069434
+[EP_REWARD]: -16.800000
+[ROUND #330/50000] 当前推演耗时79s, 累计耗时25994s
+[FILES]: simple_推演_202303210215
+[MoziLog]: 爱国者2: 4	 爱国者3: 30	 效费比: 0.382353	 拦截率: 0.464286	 有拦截记录: 17	 来袭数量: 28	 记录拦截成功: 13	 记录拦截失败: 4	 无拦截记录: 11
+[Loss]: 1.004748
+[EP_REWARD]: -22.400000
+[ROUND #331/50000] 当前推演耗时79s, 累计耗时26074s
+[FILES]: simple_推演_202303210216
+[MoziLog]: 爱国者2: 5	 爱国者3: 9	 效费比: 0.142857	 拦截率: 0.166667	 有拦截记录: 4	 来袭数量: 12	 记录拦截成功: 2	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -10.430818
+[EP_REWARD]: -9.600000
+[ROUND #332/50000] 当前推演耗时49s, 累计耗时26123s
+[FILES]: simple_推演_202303210217
+[MoziLog]: 爱国者2: 21	 爱国者3: 21	 效费比: 0.380952	 拦截率: 0.571429	 有拦截记录: 21	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: 0.320301
+[EP_REWARD]: -22.400000
+[ROUND #333/50000] 当前推演耗时83s, 累计耗时26207s
+[FILES]: simple_推演_202303210218
+[MoziLog]: 爱国者2: 17	 爱国者3: 22	 效费比: 0.333333	 拦截率: 0.541667	 有拦截记录: 18	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 5	 无拦截记录: 6
+[Loss]: -4.935596
+[EP_REWARD]: -16.000000
+[ROUND #334/50000] 当前推演耗时70s, 累计耗时26278s
+[FILES]: simple_推演_202303210220
+[MoziLog]: 爱国者2: 10	 爱国者3: 32	 效费比: 0.380952	 拦截率: 0.571429	 有拦截记录: 26	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 10	 无拦截记录: 2
+[Loss]: 1.047305
+[EP_REWARD]: -22.400000
+[ROUND #335/50000] 当前推演耗时90s, 累计耗时26369s
+[FILES]: simple_推演_202303210221
+[MoziLog]: 爱国者2: 13	 爱国者3: 16	 效费比: 0.275862	 拦截率: 0.400000	 有拦截记录: 15	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 7	 无拦截记录: 5
+[Loss]: -4.734919
+[EP_REWARD]: -16.800000
+[ROUND #336/50000] 当前推演耗时66s, 累计耗时26435s
+[FILES]: simple_推演_202303210222
+[MoziLog]: 爱国者2: 17	 爱国者3: 17	 效费比: 0.323529	 拦截率: 0.550000	 有拦截记录: 19	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 8	 无拦截记录: 1
+[Loss]: -2.060707
+[EP_REWARD]: -16.800000
+[ROUND #337/50000] 当前推演耗时64s, 累计耗时26499s
+[FILES]: simple_推演_202303210223
+[MoziLog]: 爱国者2: 24	 爱国者3: 21	 效费比: 0.422222	 拦截率: 0.593750	 有拦截记录: 22	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 3	 无拦截记录: 10
+[Loss]: 2.784559
+[EP_REWARD]: -22.400000
+[ROUND #338/50000] 当前推演耗时90s, 累计耗时26589s
+[FILES]: simple_推演_202303210225
+[MoziLog]: 爱国者2: 13	 爱国者3: 32	 效费比: 0.377778	 拦截率: 0.531250	 有拦截记录: 22	 来袭数量: 32	 记录拦截成功: 17	 记录拦截失败: 5	 无拦截记录: 10
+[Loss]: 0.343425
+[EP_REWARD]: -21.600000
+[ROUND #339/50000] 当前推演耗时94s, 累计耗时26683s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 339 MISS
+[ROUND #340/50000] 当前推演耗时89s, 累计耗时26773s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 340 MISS
+[ROUND #341/50000] 当前推演耗时87s, 累计耗时26861s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 341 MISS
+[ROUND #342/50000] 当前推演耗时73s, 累计耗时26934s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 342 MISS
+[ROUND #343/50000] 当前推演耗时44s, 累计耗时26978s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 343 MISS
+[ROUND #344/50000] 当前推演耗时91s, 累计耗时27069s
+[FILES]: simple_推演_202303210233
+[MoziLog]: 爱国者2: 27	 爱国者3: 32	 效费比: 0.389831	 拦截率: 0.638889	 有拦截记录: 23	 来袭数量: 36	 记录拦截成功: 23	 记录拦截失败: 0	 无拦截记录: 13
+[Loss]: 1.898608
+[EP_REWARD]: -25.600000
+[ROUND #345/50000] 当前推演耗时101s, 累计耗时27171s
+[FILES]: simple_推演_202303210234
+[MoziLog]: 爱国者2: 27	 爱国者3: 28	 效费比: 0.327273	 拦截率: 0.562500	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 5	 无拦截记录: 9
+[Loss]: -2.095129
+[EP_REWARD]: -22.400000
+[ROUND #346/50000] 当前推演耗时90s, 累计耗时27262s
+[FILES]: simple_推演_202303210236
+[MoziLog]: 爱国者2: 10	 爱国者3: 18	 效费比: 0.178571	 拦截率: 0.312500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -9.763528
+[EP_REWARD]: -12.800000
+[ROUND #347/50000] 当前推演耗时53s, 累计耗时27315s
+[FILES]: simple_推演_202303210237
+[MoziLog]: 爱国者2: 17	 爱国者3: 23	 效费比: 0.400000	 拦截率: 0.571429	 有拦截记录: 16	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 0	 无拦截记录: 12
+[Loss]: 0.189082
+[EP_REWARD]: -23.200000
+[ROUND #348/50000] 当前推演耗时93s, 累计耗时27409s
+[FILES]: simple_推演_202303210238
+[MoziLog]: 爱国者2: 11	 爱国者3: 12	 效费比: 0.217391	 拦截率: 0.312500	 有拦截记录: 7	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 2	 无拦截记录: 9
+[Loss]: -7.297498
+[EP_REWARD]: -12.800000
+[ROUND #349/50000] 当前推演耗时57s, 累计耗时27467s
+[FILES]: simple_推演_202303210240
+[MoziLog]: 爱国者2: 10	 爱国者3: 20	 效费比: 0.233333	 拦截率: 0.350000	 有拦截记录: 15	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 8	 无拦截记录: 5
+[Loss]: -1.122591
+[EP_REWARD]: -16.000000
+[ROUND #350/50000] 当前推演耗时72s, 累计耗时27539s
+[FILES]: simple_推演_202303210241
+[MoziLog]: 爱国者2: 27	 爱国者3: 31	 效费比: 0.327586	 拦截率: 0.593750	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: 3.114465
+[EP_REWARD]: -21.600000
+[ROUND #351/50000] 当前推演耗时87s, 累计耗时27627s
+[FILES]: simple_推演_202303210242
+[MoziLog]: 爱国者2: 9	 爱国者3: 12	 效费比: 0.333333	 拦截率: 0.437500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -4.580970
+[EP_REWARD]: -12.800000
+[ROUND #352/50000] 当前推演耗时51s, 累计耗时27679s
+[FILES]: simple_推演_202303210243
+[MoziLog]: 爱国者2: 12	 爱国者3: 32	 效费比: 0.454545	 拦截率: 0.625000	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: 3.578458
+[EP_REWARD]: -26.400000
+[ROUND #353/50000] 当前推演耗时88s, 累计耗时27767s
+[FILES]: simple_推演_202303210244
+[MoziLog]: 爱国者2: 11	 爱国者3: 32	 效费比: 0.534884	 拦截率: 0.718750	 有拦截记录: 27	 来袭数量: 32	 记录拦截成功: 23	 记录拦截失败: 4	 无拦截记录: 5
+[Loss]: -0.820198
+[EP_REWARD]: -22.400000
+[ROUND #354/50000] 当前推演耗时89s, 累计耗时27857s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 354 MISS
+[ROUND #355/50000] 当前推演耗时94s, 累计耗时27952s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 355 MISS
+[ROUND #356/50000] 当前推演耗时88s, 累计耗时28041s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 356 MISS
+[ROUND #357/50000] 当前推演耗时87s, 累计耗时28128s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 357 MISS
+[ROUND #358/50000] 当前推演耗时87s, 累计耗时28215s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 358 MISS
+[ROUND #359/50000] 当前推演耗时97s, 累计耗时28312s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 359 MISS
+[ROUND #360/50000] 当前推演耗时101s, 累计耗时28414s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 360 MISS
+[ROUND #361/50000] 当前推演耗时63s, 累计耗时28477s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 361 MISS
+[ROUND #362/50000] 当前推演耗时90s, 累计耗时28567s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 362 MISS
+[ROUND #363/50000] 当前推演耗时75s, 累计耗时28642s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 363 MISS
+[ROUND #364/50000] 当前推演耗时96s, 累计耗时28738s
+[FILES]: simple_推演_202303210301
+[MoziLog]: 爱国者2: 14	 爱国者3: 10	 效费比: 0.125000	 拦截率: 0.250000	 有拦截记录: 12	 来袭数量: 12	 记录拦截成功: 3	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -10.669713
+[EP_REWARD]: -9.600000
+[ROUND #365/50000] 当前推演耗时54s, 累计耗时28793s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 365 MISS
+[ROUND #366/50000] 当前推演耗时83s, 累计耗时28877s
+[FILES]: simple_推演_202303210303
+[MoziLog]: 爱国者2: 7	 爱国者3: 32	 效费比: 0.641026	 拦截率: 0.694444	 有拦截记录: 30	 来袭数量: 36	 记录拦截成功: 25	 记录拦截失败: 5	 无拦截记录: 6
+[Loss]: 2.801903
+[EP_REWARD]: -25.600000
+[ROUND #367/50000] 当前推演耗时88s, 累计耗时28965s
+[FILES]: simple_推演_202303210304
+[MoziLog]: 爱国者2: 7	 爱国者3: 19	 效费比: 0.576923	 拦截率: 0.535714	 有拦截记录: 17	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 2	 无拦截记录: 11
+[Loss]: -2.962121
+[EP_REWARD]: -19.200000
+[ROUND #368/50000] 当前推演耗时77s, 累计耗时29042s
+[FILES]: simple_推演_202303210306
+[MoziLog]: 爱国者2: 22	 爱国者3: 19	 效费比: 0.463415	 拦截率: 0.678571	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 19	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -0.054897
+[EP_REWARD]: -22.400000
+[ROUND #369/50000] 当前推演耗时88s, 累计耗时29130s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 369 MISS
+[ROUND #370/50000] 当前推演耗时100s, 累计耗时29231s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 370 MISS
+[ROUND #371/50000] 当前推演耗时81s, 累计耗时29313s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 371 MISS
+[ROUND #372/50000] 当前推演耗时89s, 累计耗时29403s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 372 MISS
+[ROUND #373/50000] 当前推演耗时86s, 累计耗时29489s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 373 MISS
+[ROUND #374/50000] 当前推演耗时56s, 累计耗时29545s
+[FILES]: simple_推演_202303210314
+[MoziLog]: 爱国者2: 7	 爱国者3: 16	 效费比: 0.217391	 拦截率: 0.312500	 有拦截记录: 14	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 9	 无拦截记录: 2
+[Loss]: -6.735405
+[EP_REWARD]: -12.800000
+[ROUND #375/50000] 当前推演耗时62s, 累计耗时29608s
+[FILES]: simple_推演_202303210315
+[MoziLog]: 爱国者2: 19	 爱国者3: 32	 效费比: 0.431373	 拦截率: 0.666667	 有拦截记录: 28	 来袭数量: 33	 记录拦截成功: 22	 记录拦截失败: 6	 无拦截记录: 5
+[Loss]: 4.704177
+[EP_REWARD]: -27.200000
+[ROUND #376/50000] 当前推演耗时87s, 累计耗时29695s
+[FILES]: simple_推演_202303210317
+[MoziLog]: 爱国者2: 7	 爱国者3: 15	 效费比: 0.545455	 拦截率: 0.500000	 有拦截记录: 12	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 0	 无拦截记录: 12
+[Loss]: -4.206181
+[EP_REWARD]: -16.000000
+[ROUND #377/50000] 当前推演耗时60s, 累计耗时29756s
+[FILES]: simple_推演_202303210318
+[MoziLog]: 爱国者2: 15	 爱国者3: 16	 效费比: 0.483871	 拦截率: 0.535714	 有拦截记录: 20	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: -0.582992
+[EP_REWARD]: -19.200000
+[ROUND #378/50000] 当前推演耗时79s, 累计耗时29836s
+[FILES]: simple_推演_202303210319
+[MoziLog]: 爱国者2: 16	 爱国者3: 27	 效费比: 0.488372	 拦截率: 0.656250	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 2	 无拦截记录: 9
+[Loss]: 1.809049
+[EP_REWARD]: -22.400000
+[ROUND #379/50000] 当前推演耗时79s, 累计耗时29915s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 379 MISS
+[ROUND #380/50000] 当前推演耗时56s, 累计耗时29972s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 380 MISS
+[ROUND #381/50000] 当前推演耗时65s, 累计耗时30038s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 381 MISS
+[ROUND #382/50000] 当前推演耗时87s, 累计耗时30125s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 382 MISS
+[ROUND #383/50000] 当前推演耗时86s, 累计耗时30212s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 383 MISS
+[ROUND #384/50000] 当前推演耗时64s, 累计耗时30276s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 384 MISS
+[ROUND #385/50000] 当前推演耗时67s, 累计耗时30344s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 385 MISS
+[ROUND #386/50000] 当前推演耗时87s, 累计耗时30431s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 386 MISS
+[ROUND #387/50000] 当前推演耗时73s, 累计耗时30504s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 387 MISS
+[ROUND #388/50000] 当前推演耗时92s, 累计耗时30596s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 388 MISS
+[ROUND #389/50000] 当前推演耗时94s, 累计耗时30690s
+[FILES]: simple_推演_202303210333
+[MoziLog]: 爱国者2: 5	 爱国者3: 21	 效费比: 0.615385	 拦截率: 0.571429	 有拦截记录: 20	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -1.842029
+[EP_REWARD]: -19.200000
+[ROUND #390/50000] 当前推演耗时81s, 累计耗时30772s
+[FILES]: simple_推演_202303210334
+[MoziLog]: 爱国者2: 4	 爱国者3: 20	 效费比: 0.500000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -0.615262
+[EP_REWARD]: -19.200000
+[ROUND #391/50000] 当前推演耗时78s, 累计耗时30851s
+[FILES]: simple_推演_202303210336
+[MoziLog]: 爱国者2: 8	 爱国者3: 27	 效费比: 0.514286	 拦截率: 0.642857	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 1.571393
+[EP_REWARD]: -22.400000
+[ROUND #392/50000] 当前推演耗时91s, 累计耗时30942s
+[FILES]: simple_推演_202303210337
+[MoziLog]: 爱国者2: 8	 爱国者3: 32	 效费比: 0.475000	 拦截率: 0.593750	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 4	 无拦截记录: 9
+[Loss]: 1.437462
+[EP_REWARD]: -25.600000
+[ROUND #393/50000] 当前推演耗时90s, 累计耗时31032s
+[FILES]: simple_推演_202303210339
+[MoziLog]: 爱国者2: 5	 爱国者3: 22	 效费比: 0.555556	 拦截率: 0.535714	 有拦截记录: 20	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: -4.865002
+[EP_REWARD]: -19.200000
+[ROUND #394/50000] 当前推演耗时79s, 累计耗时31112s
+[FILES]: simple_推演_202303210340
+[MoziLog]: 爱国者2: 4	 爱国者3: 26	 效费比: 0.533333	 拦截率: 0.500000	 有拦截记录: 22	 来袭数量: 32	 记录拦截成功: 16	 记录拦截失败: 6	 无拦截记录: 10
+[Loss]: -0.824241
+[EP_REWARD]: -22.400000
+[ROUND #395/50000] 当前推演耗时95s, 累计耗时31208s
+[FILES]: simple_推演_202303210342
+[MoziLog]: 爱国者2: 6	 爱国者3: 13	 效费比: 0.578947	 拦截率: 0.458333	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: -3.875268
+[EP_REWARD]: -19.200000
+[ROUND #396/50000] 当前推演耗时74s, 累计耗时31283s
+[FILES]: simple_推演_202303210343
+[MoziLog]: 爱国者2: 5	 爱国者3: 29	 效费比: 0.647059	 拦截率: 0.687500	 有拦截记录: 32	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 3.928094
+[EP_REWARD]: -25.600000
+[ROUND #397/50000] 当前推演耗时92s, 累计耗时31375s
+[FILES]: simple_推演_202303210344
+[MoziLog]: 爱国者2: 8	 爱国者3: 19	 效费比: 0.740741	 拦截率: 0.625000	 有拦截记录: 23	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 3	 无拦截记录: 9
+[Loss]: 0.135912
+[EP_REWARD]: -22.400000
+[ROUND #398/50000] 当前推演耗时95s, 累计耗时31470s
+[FILES]: simple_推演_202303210346
+[MoziLog]: 爱国者2: 11	 爱国者3: 31	 效费比: 0.523810	 拦截率: 0.687500	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 0.042430
+[EP_REWARD]: -22.400000
+[ROUND #399/50000] 当前推演耗时93s, 累计耗时31563s
+[FILES]: simple_推演_202303210348
+[MoziLog]: 爱国者2: 9	 爱国者3: 31	 效费比: 0.475000	 拦截率: 0.678571	 有拦截记录: 25	 来袭数量: 28	 记录拦截成功: 19	 记录拦截失败: 6	 无拦截记录: 3
+[Loss]: -0.237644
+[EP_REWARD]: -22.400000
+[ROUND #400/50000] 当前推演耗时87s, 累计耗时31651s
+[FILES]: simple_推演_202303210349
+[MoziLog]: 爱国者2: 5	 爱国者3: 8	 效费比: 0.307692	 拦截率: 0.250000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -8.473423
+[EP_REWARD]: -12.800000
+[ROUND #401/50000] 当前推演耗时54s, 累计耗时31705s
+[FILES]: simple_推演_202303210350
+[MoziLog]: 爱国者2: 5	 爱国者3: 17	 效费比: 0.454545	 拦截率: 0.500000	 有拦截记录: 15	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 5	 无拦截记录: 5
+[Loss]: -5.681776
+[EP_REWARD]: -12.800000
+[ROUND #402/50000] 当前推演耗时55s, 累计耗时31760s
+[FILES]: simple_推演_202303210351
+[MoziLog]: 爱国者2: 5	 爱国者3: 15	 效费比: 0.400000	 拦截率: 0.500000	 有拦截记录: 9	 来袭数量: 16	 记录拦截成功: 8	 记录拦截失败: 1	 无拦截记录: 7
+[Loss]: -6.553445
+[EP_REWARD]: -9.600000
+[ROUND #403/50000] 当前推演耗时36s, 累计耗时31797s
+[FILES]: simple_推演_202303210352
+[MoziLog]: 爱国者2: 3	 爱国者3: 12	 效费比: 0.266667	 拦截率: 0.250000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -2.391683
+[EP_REWARD]: -12.800000
+[ROUND #404/50000] 当前推演耗时58s, 累计耗时31855s
+[FILES]: simple_推演_202303210353
+[MoziLog]: 爱国者2: 10	 爱国者3: 30	 效费比: 0.475000	 拦截率: 0.593750	 有拦截记录: 26	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 7	 无拦截记录: 6
+[Loss]: 4.859805
+[EP_REWARD]: -22.400000
+[ROUND #405/50000] 当前推演耗时98s, 累计耗时31954s
+[FILES]: simple_推演_202303210354
+[MoziLog]: 爱国者2: 6	 爱国者3: 32	 效费比: 0.473684	 拦截率: 0.642857	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 3.340017
+[EP_REWARD]: -22.400000
+[ROUND #406/50000] 当前推演耗时80s, 累计耗时32035s
+[FILES]: simple_推演_202303210355
+[MoziLog]: 爱国者2: 6	 爱国者3: 14	 效费比: 0.150000	 拦截率: 0.187500	 有拦截记录: 10	 来袭数量: 16	 记录拦截成功: 3	 记录拦截失败: 7	 无拦截记录: 6
+[Loss]: -6.207952
+[EP_REWARD]: -9.600000
+[ROUND #407/50000] 当前推演耗时42s, 累计耗时32078s
+[FILES]: simple_推演_202303210356
+[MoziLog]: 爱国者2: 6	 爱国者3: 32	 效费比: 0.578947	 拦截率: 0.687500	 有拦截记录: 30	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 8	 无拦截记录: 2
+[Loss]: 2.779429
+[EP_REWARD]: -25.600000
+[ROUND #408/50000] 当前推演耗时96s, 累计耗时32174s
+[FILES]: simple_推演_202303210358
+[MoziLog]: 爱国者2: 10	 爱国者3: 11	 效费比: 0.571429	 拦截率: 0.600000	 有拦截记录: 13	 来袭数量: 20	 记录拦截成功: 12	 记录拦截失败: 1	 无拦截记录: 7
+[Loss]: -5.754907
+[EP_REWARD]: -12.800000
+[ROUND #409/50000] 当前推演耗时45s, 累计耗时32220s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 409 MISS
+[ROUND #410/50000] 当前推演耗时97s, 累计耗时32318s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 410 MISS
+[ROUND #411/50000] 当前推演耗时89s, 累计耗时32408s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 411 MISS
+[ROUND #412/50000] 当前推演耗时81s, 累计耗时32489s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 412 MISS
+[ROUND #413/50000] 当前推演耗时69s, 累计耗时32559s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 413 MISS
+[ROUND #414/50000] 当前推演耗时47s, 累计耗时32606s
+[FILES]: simple_推演_202303210405
+[MoziLog]: 爱国者2: 7	 爱国者3: 18	 效费比: 0.280000	 拦截率: 0.350000	 有拦截记录: 15	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 8	 无拦截记录: 5
+[Loss]: -3.051432
+[EP_REWARD]: -16.000000
+[ROUND #415/50000] 当前推演耗时76s, 累计耗时32682s
+[FILES]: simple_推演_202303210406
+[MoziLog]: 爱国者2: 8	 爱国者3: 18	 效费比: 0.423077	 拦截率: 0.458333	 有拦截记录: 23	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 12	 无拦截记录: 1
+[Loss]: 1.052720
+[EP_REWARD]: -19.200000
+[ROUND #416/50000] 当前推演耗时70s, 累计耗时32753s
+[FILES]: simple_推演_202303210407
+[MoziLog]: 爱国者2: 19	 爱国者3: 30	 效费比: 0.469388	 拦截率: 0.718750	 有拦截记录: 30	 来袭数量: 32	 记录拦截成功: 23	 记录拦截失败: 7	 无拦截记录: 2
+[Loss]: 5.772641
+[EP_REWARD]: -25.600000
+[ROUND #417/50000] 当前推演耗时92s, 累计耗时32845s
+[FILES]: simple_推演_202303210409
+[MoziLog]: 爱国者2: 2	 爱国者3: 14	 效费比: 0.250000	 拦截率: 0.250000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -5.746884
+[EP_REWARD]: -12.800000
+[ROUND #418/50000] 当前推演耗时52s, 累计耗时32898s
+[FILES]: simple_推演_202303210410
+[MoziLog]: 爱国者2: 4	 爱国者3: 15	 效费比: 0.684211	 拦截率: 0.541667	 有拦截记录: 13	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 0	 无拦截记录: 11
+[Loss]: -1.277980
+[EP_REWARD]: -19.200000
+[ROUND #419/50000] 当前推演耗时77s, 累计耗时32975s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 419 MISS
+[ROUND #420/50000] 当前推演耗时97s, 累计耗时33073s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 420 MISS
+[ROUND #421/50000] 当前推演耗时90s, 累计耗时33164s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 421 MISS
+[ROUND #422/50000] 当前推演耗时80s, 累计耗时33245s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 422 MISS
+[ROUND #423/50000] 当前推演耗时63s, 累计耗时33309s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 423 MISS
+[ROUND #424/50000] 当前推演耗时91s, 累计耗时33400s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 424 MISS
+[ROUND #425/50000] 当前推演耗时74s, 累计耗时33475s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 425 MISS
+[ROUND #426/50000] 当前推演耗时23s, 累计耗时33498s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 426 MISS
+[ROUND #427/50000] 当前推演耗时62s, 累计耗时33560s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 427 MISS
+[ROUND #428/50000] 当前推演耗时18s, 累计耗时33579s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 428 MISS
+[ROUND #429/50000] 当前推演耗时93s, 累计耗时33672s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 429 MISS
+[ROUND #430/50000] 当前推演耗时89s, 累计耗时33762s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 430 MISS
+[ROUND #431/50000] 当前推演耗时89s, 累计耗时33852s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 431 MISS
+[ROUND #432/50000] 当前推演耗时68s, 累计耗时33921s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 432 MISS
+[ROUND #433/50000] 当前推演耗时57s, 累计耗时33978s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 433 MISS
+[ROUND #434/50000] 当前推演耗时59s, 累计耗时34037s
+[FILES]: simple_推演_202303210429
+[MoziLog]: 爱国者2: 12	 爱国者3: 32	 效费比: 0.431818	 拦截率: 0.593750	 有拦截记录: 25	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 6	 无拦截记录: 7
+[Loss]: 2.532817
+[EP_REWARD]: -22.400000
+[ROUND #435/50000] 当前推演耗时100s, 累计耗时34138s
+[FILES]: simple_推演_202303210431
+[MoziLog]: 爱国者2: 1	 爱国者3: 13	 效费比: 0.428571	 拦截率: 0.375000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -6.252282
+[EP_REWARD]: -12.800000
+[ROUND #436/50000] 当前推演耗时56s, 累计耗时34195s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 436 MISS
+[ROUND #437/50000] 当前推演耗时62s, 累计耗时34258s
+[FILES]: simple_推演_202303210433
+[MoziLog]: 爱国者2: 6	 爱国者3: 23	 效费比: 0.482759	 拦截率: 0.583333	 有拦截记录: 23	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 9	 无拦截记录: 1
+[Loss]: -0.721950
+[EP_REWARD]: -19.200000
+[ROUND #438/50000] 当前推演耗时74s, 累计耗时34332s
+[FILES]: simple_推演_202303210434
+[MoziLog]: 爱国者2: 1	 爱国者3: 18	 效费比: 0.526316	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -1.604212
+[EP_REWARD]: -16.000000
+[ROUND #439/50000] 当前推演耗时68s, 累计耗时34400s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 439 MISS
+[ROUND #440/50000] 当前推演耗时98s, 累计耗时34498s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 440 MISS
+[ROUND #441/50000] 当前推演耗时80s, 累计耗时34579s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 441 MISS
+[ROUND #442/50000] 当前推演耗时80s, 累计耗时34659s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 442 MISS
+[ROUND #443/50000] 当前推演耗时54s, 累计耗时34713s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 443 MISS
+[ROUND #444/50000] 当前推演耗时43s, 累计耗时34757s
+[FILES]: simple_推演_202303210441
+[MoziLog]: 爱国者2: 4	 爱国者3: 10	 效费比: 0.285714	 拦截率: 0.333333	 有拦截记录: 8	 来袭数量: 12	 记录拦截成功: 4	 记录拦截失败: 4	 无拦截记录: 4
+[EP_REWARD]: -6.400000
+[ROUND #445/50000] 当前推演耗时42s, 累计耗时34800s
+[FILES]: simple_推演_202303210442
+[MoziLog]: 爱国者2: 6	 爱国者3: 28	 效费比: 0.411765	 拦截率: 0.583333	 有拦截记录: 21	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 7	 无拦截记录: 3
+[Loss]: 3.631936
+[EP_REWARD]: -19.200000
+[ROUND #446/50000] 当前推演耗时76s, 累计耗时34877s
+[FILES]: simple_推演_202303210443
+[MoziLog]: 爱国者2: 3	 爱国者3: 23	 效费比: 0.230769	 拦截率: 0.375000	 有拦截记录: 13	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 7	 无拦截记录: 3
+[Loss]: -2.964391
+[EP_REWARD]: -12.800000
+[ROUND #447/50000] 当前推演耗时51s, 累计耗时34929s
+[FILES]: simple_推演_202303210444
+[MoziLog]: 爱国者2: 1	 爱国者3: 32	 效费比: 0.454545	 拦截率: 0.535714	 有拦截记录: 17	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 2	 无拦截记录: 11
+[Loss]: 3.096132
+[EP_REWARD]: -22.400000
+[ROUND #448/50000] 当前推演耗时83s, 累计耗时35012s
+[FILES]: simple_推演_202303210445
+[MoziLog]: 爱国者2: 2	 爱国者3: 12	 效费比: 0.642857	 拦截率: 0.450000	 有拦截记录: 9	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 0	 无拦截记录: 11
+[Loss]: -3.498742
+[EP_REWARD]: -16.000000
+[ROUND #449/50000] 当前推演耗时58s, 累计耗时35071s
+[FILES]: simple_推演_202303210446
+[MoziLog]: 爱国者2: 3	 爱国者3: 17	 效费比: 0.500000	 拦截率: 0.500000	 有拦截记录: 14	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 4	 无拦截记录: 6
+[Loss]: -1.796744
+[EP_REWARD]: -16.000000
+[ROUND #450/50000] 当前推演耗时69s, 累计耗时35141s
+[FILES]: simple_推演_202303210447
+[MoziLog]: 爱国者2: 3	 爱国者3: 13	 效费比: 0.500000	 拦截率: 0.400000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -0.319199
+[EP_REWARD]: -16.000000
+[ROUND #451/50000] 当前推演耗时59s, 累计耗时35200s
+[FILES]: simple_推演_202303210448
+[MoziLog]: 爱国者2: 2	 爱国者3: 30	 效费比: 0.562500	 拦截率: 0.642857	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 3.139611
+[EP_REWARD]: -22.400000
+[ROUND #452/50000] 当前推演耗时87s, 累计耗时35287s
+[FILES]: simple_推演_202303210450
+[MoziLog]: 爱国者2: 1	 爱国者3: 11	 效费比: 0.500000	 拦截率: 0.375000	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -5.573459
+[EP_REWARD]: -12.800000
+[ROUND #453/50000] 当前推演耗时55s, 累计耗时35342s
+[FILES]: simple_推演_202303210451
+[MoziLog]: 爱国者2: 1	 爱国者3: 15	 效费比: 0.500000	 拦截率: 0.400000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: -2.921972
+[EP_REWARD]: -16.000000
+[ROUND #454/50000] 当前推演耗时60s, 累计耗时35403s
+[FILES]: simple_推演_202303210452
+[MoziLog]: 爱国者2: 4	 爱国者3: 13	 效费比: 0.176471	 拦截率: 0.187500	 有拦截记录: 14	 来袭数量: 16	 记录拦截成功: 3	 记录拦截失败: 11	 无拦截记录: 2
+[Loss]: -3.711754
+[EP_REWARD]: -12.800000
+[ROUND #455/50000] 当前推演耗时63s, 累计耗时35467s
+[FILES]: simple_推演_202303210453
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.583333	 拦截率: 0.437500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -2.492276
+[EP_REWARD]: -12.800000
+[ROUND #456/50000] 当前推演耗时52s, 累计耗时35520s
+[FILES]: simple_推演_202303210454
+[MoziLog]: 爱国者2: 3	 爱国者3: 17	 效费比: 0.500000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 2.277362
+[EP_REWARD]: -16.000000
+[ROUND #457/50000] 当前推演耗时54s, 累计耗时35574s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 457 MISS
+[ROUND #458/50000] 当前推演耗时81s, 累计耗时35656s
+[FILES]: simple_推演_202303210456
+[MoziLog]: 爱国者2: 0	 爱国者3: 4	 效费比: 0.750000	 拦截率: 0.250000	 有拦截记录: 4	 来袭数量: 12	 记录拦截成功: 3	 记录拦截失败: 1	 无拦截记录: 8
+[EP_REWARD]: -6.400000
+[ROUND #459/50000] 当前推演耗时38s, 累计耗时35694s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 459 MISS
+[ROUND #460/50000] 当前推演耗时54s, 累计耗时35749s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 460 MISS
+[ROUND #461/50000] 当前推演耗时55s, 累计耗时35805s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 461 MISS
+[ROUND #462/50000] 当前推演耗时88s, 累计耗时35893s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 462 MISS
+[ROUND #463/50000] 当前推演耗时46s, 累计耗时35940s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 463 MISS
+[ROUND #464/50000] 当前推演耗时57s, 累计耗时35997s
+[FILES]: simple_推演_202303210502
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.687500	 拦截率: 0.550000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: 3.197724
+[EP_REWARD]: -16.000000
+[ROUND #465/50000] 当前推演耗时76s, 累计耗时36073s
+[FILES]: simple_推演_202303210503
+[MoziLog]: 爱国者2: 2	 爱国者3: 21	 效费比: 0.652174	 拦截率: 0.625000	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: 0.905774
+[EP_REWARD]: -19.200000
+[ROUND #466/50000] 当前推演耗时70s, 累计耗时36144s
+[FILES]: simple_推演_202303210504
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.562500	 拦截率: 0.450000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -4.595008
+[EP_REWARD]: -12.800000
+[ROUND #467/50000] 当前推演耗时53s, 累计耗时36197s
+[FILES]: simple_推演_202303210505
+[MoziLog]: 爱国者2: 1	 爱国者3: 26	 效费比: 0.518519	 拦截率: 0.583333	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 0.740620
+[EP_REWARD]: -19.200000
+[ROUND #468/50000] 当前推演耗时79s, 累计耗时36276s
+[FILES]: simple_推演_202303210506
+[MoziLog]: 爱国者2: 0	 爱国者3: 19	 效费比: 0.263158	 拦截率: 0.312500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -5.107785
+[EP_REWARD]: -12.800000
+[ROUND #469/50000] 当前推演耗时54s, 累计耗时36330s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 469 MISS
+[ROUND #470/50000] 当前推演耗时79s, 累计耗时36410s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 470 MISS
+[ROUND #471/50000] 当前推演耗时72s, 累计耗时36483s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 471 MISS
+[ROUND #472/50000] 当前推演耗时47s, 累计耗时36530s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 472 MISS
+[ROUND #473/50000] 当前推演耗时67s, 累计耗时36598s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 473 MISS
+[ROUND #474/50000] 当前推演耗时59s, 累计耗时36658s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 474 MISS
+[ROUND #475/50000] 当前推演耗时44s, 累计耗时36703s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 475 MISS
+[ROUND #476/50000] 当前推演耗时75s, 累计耗时36778s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 476 MISS
+[ROUND #477/50000] 当前推演耗时65s, 累计耗时36843s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 477 MISS
+[ROUND #478/50000] 当前推演耗时88s, 累计耗时36931s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 478 MISS
+[ROUND #479/50000] 当前推演耗时60s, 累计耗时36991s
+[FILES]: simple_推演_202303210518
+[MoziLog]: 爱国者2: 2	 爱国者3: 15	 效费比: 0.647059	 拦截率: 0.550000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -0.566442
+[EP_REWARD]: -16.000000
+[ROUND #480/50000] 当前推演耗时73s, 累计耗时37065s
+[FILES]: simple_推演_202303210519
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.500000	 拦截率: 0.400000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: -1.969048
+[EP_REWARD]: -12.800000
+[ROUND #481/50000] 当前推演耗时54s, 累计耗时37120s
+[FILES]: simple_推演_202303210520
+[MoziLog]: 爱国者2: 5	 爱国者3: 19	 效费比: 0.750000	 拦截率: 0.562500	 有拦截记录: 21	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 3	 无拦截记录: 11
+[Loss]: 5.629774
+[EP_REWARD]: -22.400000
+[ROUND #482/50000] 当前推演耗时90s, 累计耗时37210s
+[FILES]: simple_推演_202303210522
+[MoziLog]: 爱国者2: 1	 爱国者3: 26	 效费比: 0.592593	 拦截率: 0.571429	 有拦截记录: 27	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 11	 无拦截记录: 1
+[Loss]: 3.369452
+[EP_REWARD]: -22.400000
+[ROUND #483/50000] 当前推演耗时89s, 累计耗时37299s
+[FILES]: simple_推演_202303210523
+[MoziLog]: 爱国者2: 0	 爱国者3: 30	 效费比: 0.566667	 拦截率: 0.607143	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 0.575044
+[EP_REWARD]: -22.400000
+[ROUND #484/50000] 当前推演耗时86s, 累计耗时37385s
+[FILES]: simple_推演_202303210525
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.625000	 拦截率: 0.416667	 有拦截记录: 13	 来袭数量: 24	 记录拦截成功: 10	 记录拦截失败: 3	 无拦截记录: 11
+[Loss]: -1.988853
+[EP_REWARD]: -19.200000
+[ROUND #485/50000] 当前推演耗时85s, 累计耗时37471s
+[FILES]: simple_推演_202303210526
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.583333	 拦截率: 0.583333	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: -0.121119
+[EP_REWARD]: -19.200000
+[ROUND #486/50000] 当前推演耗时67s, 累计耗时37539s
+[FILES]: simple_推演_202303210527
+[MoziLog]: 爱国者2: 3	 爱国者3: 26	 效费比: 0.551724	 拦截率: 0.571429	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: 0.213582
+[EP_REWARD]: -19.200000
+[ROUND #487/50000] 当前推演耗时86s, 累计耗时37625s
+[FILES]: simple_推演_202303210529
+[MoziLog]: 爱国者2: 0	 爱国者3: 4	 效费比: 0.000000	 拦截率: 0.000000	 有拦截记录: 4	 来袭数量: 8	 记录拦截成功: 0	 记录拦截失败: 4	 无拦截记录: 4
+[EP_REWARD]: -3.200000
+[ROUND #488/50000] 当前推演耗时17s, 累计耗时37643s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 488 MISS
+[ROUND #489/50000] 当前推演耗时78s, 累计耗时37722s
+[FILES]: simple_推演_202303210530
+[MoziLog]: 爱国者2: 0	 爱国者3: 32	 效费比: 0.625000	 拦截率: 0.625000	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: 1.990902
+[EP_REWARD]: -22.400000
+[ROUND #490/50000] 当前推演耗时100s, 累计耗时37822s
+[FILES]: simple_推演_202303210532
+[MoziLog]: 爱国者2: 6	 爱国者3: 30	 效费比: 0.611111	 拦截率: 0.611111	 有拦截记录: 27	 来袭数量: 36	 记录拦截成功: 22	 记录拦截失败: 5	 无拦截记录: 9
+[Loss]: 0.800706
+[EP_REWARD]: -25.600000
+[ROUND #491/50000] 当前推演耗时90s, 累计耗时37913s
+[FILES]: simple_推演_202303210533
+[MoziLog]: 爱国者2: 7	 爱国者3: 28	 效费比: 0.514286	 拦截率: 0.642857	 有拦截记录: 25	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 7	 无拦截记录: 3
+[Loss]: -2.580456
+[EP_REWARD]: -22.400000
+[ROUND #492/50000] 当前推演耗时83s, 累计耗时37996s
+[FILES]: simple_推演_202303210535
+[MoziLog]: 爱国者2: 3	 爱国者3: 20	 效费比: 0.347826	 拦截率: 0.400000	 有拦截记录: 13	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: -6.291414
+[EP_REWARD]: -16.000000
+[ROUND #493/50000] 当前推演耗时63s, 累计耗时38060s
+[FILES]: simple_推演_202303210536
+[MoziLog]: 爱国者2: 3	 爱国者3: 11	 效费比: 0.214286	 拦截率: 0.187500	 有拦截记录: 13	 来袭数量: 16	 记录拦截成功: 3	 记录拦截失败: 10	 无拦截记录: 3
+[Loss]: -5.576594
+[EP_REWARD]: -12.800000
+[ROUND #494/50000] 当前推演耗时55s, 累计耗时38115s
+[FILES]: simple_推演_202303210537
+[MoziLog]: 爱国者2: 5	 爱国者3: 31	 效费比: 0.444444	 拦截率: 0.666667	 有拦截记录: 19	 来袭数量: 24	 记录拦截成功: 16	 记录拦截失败: 3	 无拦截记录: 5
+[Loss]: 2.363863
+[EP_REWARD]: -19.200000
+[ROUND #495/50000] 当前推演耗时76s, 累计耗时38192s
+[FILES]: simple_推演_202303210538
+[MoziLog]: 爱国者2: 5	 爱国者3: 28	 效费比: 0.484848	 拦截率: 0.666667	 有拦截记录: 23	 来袭数量: 24	 记录拦截成功: 16	 记录拦截失败: 7	 无拦截记录: 1
+[Loss]: 1.299757
+[EP_REWARD]: -19.200000
+[ROUND #496/50000] 当前推演耗时69s, 累计耗时38262s
+[FILES]: simple_推演_202303210539
+[MoziLog]: 爱国者2: 1	 爱国者3: 16	 效费比: 0.470588	 拦截率: 0.400000	 有拦截记录: 14	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 6	 无拦截记录: 6
+[Loss]: -2.116562
+[EP_REWARD]: -16.000000
+[ROUND #497/50000] 当前推演耗时65s, 累计耗时38327s
+[FILES]: simple_推演_202303210540
+[MoziLog]: 爱国者2: 2	 爱国者3: 17	 效费比: 0.315789	 拦截率: 0.375000	 有拦截记录: 13	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 7	 无拦截记录: 3
+[Loss]: -3.947300
+[EP_REWARD]: -12.800000
+[ROUND #498/50000] 当前推演耗时53s, 累计耗时38381s
+[FILES]: simple_推演_202303210541
+[MoziLog]: 爱国者2: 6	 爱国者3: 10	 效费比: 0.437500	 拦截率: 0.437500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -3.304669
+[EP_REWARD]: -12.800000
+[ROUND #499/50000] 当前推演耗时56s, 累计耗时38437s
+[FILES]: simple_推演_202303210542
+[MoziLog]: 爱国者2: 1	 爱国者3: 23	 效费比: 0.833333	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 5.154935
+[EP_REWARD]: -22.400000
+[ROUND #500/50000] 当前推演耗时101s, 累计耗时38539s
+[FILES]: simple_推演_202303210544
+[MoziLog]: 爱国者2: 4	 爱国者3: 14	 效费比: 0.500000	 拦截率: 0.450000	 有拦截记录: 14	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 5	 无拦截记录: 6
+[Loss]: 0.124940
+[EP_REWARD]: -16.000000
+[ROUND #501/50000] 当前推演耗时70s, 累计耗时38609s
+[FILES]: simple_推演_202303210545
+[MoziLog]: 爱国者2: 1	 爱国者3: 14	 效费比: 0.266667	 拦截率: 0.250000	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: -2.782907
+[EP_REWARD]: -12.800000
+[ROUND #502/50000] 当前推演耗时53s, 累计耗时38663s
+[FILES]: simple_推演_202303210546
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: 2.295320
+[EP_REWARD]: -19.200000
+[ROUND #503/50000] 当前推演耗时72s, 累计耗时38735s
+[FILES]: simple_推演_202303210547
+[MoziLog]: 爱国者2: 1	 爱国者3: 14	 效费比: 0.400000	 拦截率: 0.375000	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -2.572941
+[EP_REWARD]: -12.800000
+[ROUND #504/50000] 当前推演耗时47s, 累计耗时38782s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 504 MISS
+[ROUND #505/50000] 当前推演耗时97s, 累计耗时38879s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 505 MISS
+[ROUND #506/50000] 当前推演耗时45s, 累计耗时38925s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 506 MISS
+[ROUND #507/50000] 当前推演耗时76s, 累计耗时39002s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 507 MISS
+[ROUND #508/50000] 当前推演耗时68s, 累计耗时39070s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 508 MISS
+[ROUND #509/50000] 当前推演耗时53s, 累计耗时39123s
+[FILES]: simple_推演_202303210554
+[MoziLog]: 爱国者2: 2	 爱国者3: 28	 效费比: 0.666667	 拦截率: 0.714286	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 20	 记录拦截失败: 8	 无拦截记录: 0
+[Loss]: 3.337893
+[EP_REWARD]: -22.400000
+[ROUND #510/50000] 当前推演耗时93s, 累计耗时39217s
+[FILES]: simple_推演_202303210555
+[MoziLog]: 爱国者2: 3	 爱国者3: 23	 效费比: 0.576923	 拦截率: 0.535714	 有拦截记录: 20	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: -0.042063
+[EP_REWARD]: -19.200000
+[ROUND #511/50000] 当前推演耗时72s, 累计耗时39290s
+[FILES]: simple_推演_202303210556
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.535714	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: -0.226936
+[EP_REWARD]: -19.200000
+[ROUND #512/50000] 当前推演耗时76s, 累计耗时39366s
+[FILES]: simple_推演_202303210558
+[MoziLog]: 爱国者2: 1	 爱国者3: 10	 效费比: 0.000000	 拦截率: 0.000000	 有拦截记录: 8	 来袭数量: 12	 记录拦截成功: 0	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: -8.414655
+[EP_REWARD]: -9.600000
+[ROUND #513/50000] 当前推演耗时45s, 累计耗时39411s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 513 MISS
+[ROUND #514/50000] 当前推演耗时90s, 累计耗时39502s
+[FILES]: simple_推演_202303210600
+[MoziLog]: 爱国者2: 2	 爱国者3: 8	 效费比: 0.400000	 拦截率: 0.250000	 有拦截记录: 9	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: -7.949264
+[EP_REWARD]: -9.600000
+[ROUND #515/50000] 当前推演耗时58s, 累计耗时39561s
+[FILES]: simple_推演_202303210601
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.650000	 拦截率: 0.541667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 1.112129
+[EP_REWARD]: -19.200000
+[ROUND #516/50000] 当前推演耗时73s, 累计耗时39634s
+[FILES]: simple_推演_202303210602
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.625000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -1.826089
+[EP_REWARD]: -16.000000
+[ROUND #517/50000] 当前推演耗时58s, 累计耗时39693s
+[FILES]: simple_推演_202303210603
+[MoziLog]: 爱国者2: 1	 爱国者3: 12	 效费比: 0.769231	 拦截率: 0.500000	 有拦截记录: 13	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 3	 无拦截记录: 7
+[Loss]: -3.667560
+[EP_REWARD]: -12.800000
+[ROUND #518/50000] 当前推演耗时50s, 累计耗时39743s
+[FILES]: simple_推演_202303210604
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.750000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 0.098157
+[EP_REWARD]: -16.000000
+[ROUND #519/50000] 当前推演耗时63s, 累计耗时39806s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 519 MISS
+[ROUND #520/50000] 当前推演耗时97s, 累计耗时39904s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 520 MISS
+[ROUND #521/50000] 当前推演耗时56s, 累计耗时39961s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 521 MISS
+[ROUND #522/50000] 当前推演耗时71s, 累计耗时40033s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 522 MISS
+[ROUND #523/50000] 当前推演耗时86s, 累计耗时40119s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 523 MISS
+[ROUND #524/50000] 当前推演耗时46s, 累计耗时40166s
+[FILES]: simple_推演_202303210611
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.562500	 拦截率: 0.450000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 1.099016
+[EP_REWARD]: -16.000000
+[ROUND #525/50000] 当前推演耗时72s, 累计耗时40239s
+[FILES]: simple_推演_202303210612
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.500000	 拦截率: 0.300000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 6	 记录拦截失败: 6	 无拦截记录: 8
+[Loss]: -2.594222
+[EP_REWARD]: -12.800000
+[ROUND #526/50000] 当前推演耗时55s, 累计耗时40294s
+[FILES]: simple_推演_202303210613
+[MoziLog]: 爱国者2: 0	 爱国者3: 27	 效费比: 0.666667	 拦截率: 0.562500	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 6	 无拦截记录: 8
+[Loss]: 4.087149
+[EP_REWARD]: -22.400000
+[ROUND #527/50000] 当前推演耗时87s, 累计耗时40382s
+[FILES]: simple_推演_202303210615
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.300000	 拦截率: 0.300000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 6	 记录拦截失败: 14	 无拦截记录: 0
+[Loss]: -1.436805
+[EP_REWARD]: -16.000000
+[ROUND #528/50000] 当前推演耗时67s, 累计耗时40449s
+[FILES]: simple_推演_202303210616
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.583333	 拦截率: 0.437500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -3.948023
+[EP_REWARD]: -12.800000
+[ROUND #529/50000] 当前推演耗时52s, 累计耗时40502s
+[FILES]: simple_推演_202303210617
+[MoziLog]: 爱国者2: 2	 爱国者3: 13	 效费比: 0.266667	 拦截率: 0.200000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 4	 记录拦截失败: 8	 无拦截记录: 8
+[Loss]: -1.980986
+[EP_REWARD]: -12.800000
+[ROUND #530/50000] 当前推演耗时68s, 累计耗时40570s
+[FILES]: simple_推演_202303210618
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.750000	 拦截率: 0.656250	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 5.191277
+[EP_REWARD]: -22.400000
+[ROUND #531/50000] 当前推演耗时83s, 累计耗时40654s
+[FILES]: simple_推演_202303210619
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.375000	 拦截率: 0.187500	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 3	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: -4.007870
+[EP_REWARD]: -9.600000
+[ROUND #532/50000] 当前推演耗时42s, 累计耗时40697s
+[FILES]: simple_推演_202303210620
+[MoziLog]: 爱国者2: 2	 爱国者3: 12	 效费比: 0.642857	 拦截率: 0.450000	 有拦截记录: 13	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 4	 无拦截记录: 7
+[Loss]: 0.763193
+[EP_REWARD]: -16.000000
+[ROUND #533/50000] 当前推演耗时70s, 累计耗时40767s
+[FILES]: simple_推演_202303210621
+[MoziLog]: 爱国者2: 2	 爱国者3: 17	 效费比: 0.578947	 拦截率: 0.458333	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: 2.038531
+[EP_REWARD]: -19.200000
+[ROUND #534/50000] 当前推演耗时78s, 累计耗时40845s
+[FILES]: simple_推演_202303210623
+[MoziLog]: 爱国者2: 1	 爱国者3: 10	 效费比: 0.181818	 拦截率: 0.250000	 有拦截记录: 8	 来袭数量: 8	 记录拦截成功: 2	 记录拦截失败: 6	 无拦截记录: 0
+[EP_REWARD]: -6.400000
+[ROUND #535/50000] 当前推演耗时39s, 累计耗时40885s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 535 MISS
+[ROUND #536/50000] 当前推演耗时84s, 累计耗时40970s
+[FILES]: simple_推演_202303210624
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.500000	 拦截率: 0.400000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: -0.248668
+[EP_REWARD]: -16.000000
+[ROUND #537/50000] 当前推演耗时55s, 累计耗时41025s
+[FILES]: simple_推演_202303210625
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.500000	 拦截率: 0.416667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 10	 记录拦截失败: 10	 无拦截记录: 4
+[Loss]: -1.655866
+[EP_REWARD]: -16.000000
+[ROUND #538/50000] 当前推演耗时65s, 累计耗时41091s
+[FILES]: simple_推演_202303210626
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.875000	 拦截率: 0.656250	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: 3.758981
+[EP_REWARD]: -22.400000
+[ROUND #539/50000] 当前推演耗时93s, 累计耗时41184s
+[FILES]: simple_推演_202303210628
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.450000	 拦截率: 0.450000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -1.450168
+[EP_REWARD]: -16.000000
+[ROUND #540/50000] 当前推演耗时68s, 累计耗时41253s
+[FILES]: simple_推演_202303210629
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.791667	 拦截率: 0.593750	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: 2.985206
+[EP_REWARD]: -22.400000
+[ROUND #541/50000] 当前推演耗时84s, 累计耗时41337s
+[FILES]: simple_推演_202303210631
+[MoziLog]: 爱国者2: 4	 爱国者3: 18	 效费比: 0.409091	 拦截率: 0.450000	 有拦截记录: 18	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 9	 无拦截记录: 2
+[Loss]: -1.559849
+[EP_REWARD]: -16.000000
+[ROUND #542/50000] 当前推演耗时63s, 累计耗时41401s
+[FILES]: simple_推演_202303210632
+[MoziLog]: 爱国者2: 0	 爱国者3: 15	 效费比: 0.400000	 拦截率: 0.300000	 有拦截记录: 15	 来袭数量: 20	 记录拦截成功: 6	 记录拦截失败: 9	 无拦截记录: 5
+[Loss]: -0.773152
+[EP_REWARD]: -16.000000
+[ROUND #543/50000] 当前推演耗时65s, 累计耗时41466s
+[FILES]: simple_推演_202303210633
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.750000	 拦截率: 0.375000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -3.096873
+[EP_REWARD]: -12.800000
+[ROUND #544/50000] 当前推演耗时58s, 累计耗时41525s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 544 MISS
+[ROUND #545/50000] 当前推演耗时96s, 累计耗时41622s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 545 MISS
+[ROUND #546/50000] 当前推演耗时56s, 累计耗时41679s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 546 MISS
+[ROUND #547/50000] 当前推演耗时63s, 累计耗时41743s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 547 MISS
+[ROUND #548/50000] 当前推演耗时72s, 累计耗时41815s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 548 MISS
+[ROUND #549/50000] 当前推演耗时47s, 累计耗时41862s
+[FILES]: simple_推演_202303210639
+[MoziLog]: 爱国者2: 2	 爱国者3: 19	 效费比: 0.619048	 拦截率: 0.541667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 3.522593
+[EP_REWARD]: -19.200000
+[ROUND #550/50000] 当前推演耗时82s, 累计耗时41945s
+[FILES]: simple_推演_202303210641
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.750000	 拦截率: 0.375000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -1.364855
+[EP_REWARD]: -12.800000
+[ROUND #551/50000] 当前推演耗时50s, 累计耗时41995s
+[FILES]: simple_推演_202303210642
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.550000	 拦截率: 0.550000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: 1.066311
+[EP_REWARD]: -16.000000
+[ROUND #552/50000] 当前推演耗时61s, 累计耗时42056s
+[FILES]: simple_推演_202303210643
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.500000	 拦截率: 0.250000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -5.018998
+[EP_REWARD]: -9.600000
+[ROUND #553/50000] 当前推演耗时37s, 累计耗时42094s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 553 MISS
+[ROUND #554/50000] 当前推演耗时53s, 累计耗时42148s
+[FILES]: simple_推演_202303210644
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.416667	 拦截率: 0.312500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -2.079148
+[EP_REWARD]: -12.800000
+[ROUND #555/50000] 当前推演耗时68s, 累计耗时42217s
+[FILES]: simple_推演_202303210645
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.500000	 拦截率: 0.250000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -3.816880
+[EP_REWARD]: -9.600000
+[ROUND #556/50000] 当前推演耗时46s, 累计耗时42264s
+[FILES]: simple_推演_202303210646
+[MoziLog]: 爱国者2: 0	 爱国者3: 18	 效费比: 0.611111	 拦截率: 0.458333	 有拦截记录: 18	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 7	 无拦截记录: 6
+[Loss]: 4.567273
+[EP_REWARD]: -19.200000
+[ROUND #557/50000] 当前推演耗时76s, 累计耗时42340s
+[FILES]: simple_推演_202303210647
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.833333	 拦截率: 0.625000	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: 6.780045
+[EP_REWARD]: -25.600000
+[ROUND #558/50000] 当前推演耗时90s, 累计耗时42430s
+[FILES]: simple_推演_202303210649
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.750000	 拦截率: 0.656250	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 2.593786
+[EP_REWARD]: -22.400000
+[ROUND #559/50000] 当前推演耗时86s, 累计耗时42516s
+[FILES]: simple_推演_202303210650
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -0.749348
+[EP_REWARD]: -19.200000
+[ROUND #560/50000] 当前推演耗时77s, 累计耗时42594s
+[FILES]: simple_推演_202303210651
+[MoziLog]: 爱国者2: 8	 爱国者3: 30	 效费比: 0.631579	 拦截率: 0.666667	 有拦截记录: 28	 来袭数量: 36	 记录拦截成功: 24	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 2.688630
+[EP_REWARD]: -25.600000
+[ROUND #561/50000] 当前推演耗时91s, 累计耗时42686s
+[FILES]: simple_推演_202303210653
+[MoziLog]: 爱国者2: 5	 爱国者3: 28	 效费比: 0.575758	 拦截率: 0.593750	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: -0.518463
+[EP_REWARD]: -22.400000
+[ROUND #562/50000] 当前推演耗时89s, 累计耗时42775s
+[FILES]: simple_推演_202303210654
+[MoziLog]: 爱国者2: 4	 爱国者3: 23	 效费比: 0.777778	 拦截率: 0.656250	 有拦截记录: 26	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 5	 无拦截记录: 6
+[Loss]: -0.206650
+[EP_REWARD]: -22.400000
+[ROUND #563/50000] 当前推演耗时89s, 累计耗时42865s
+[FILES]: simple_推演_202303210656
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.625000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -4.779962
+[EP_REWARD]: -16.000000
+[ROUND #564/50000] 当前推演耗时67s, 累计耗时42932s
+[FILES]: simple_推演_202303210657
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.562500	 拦截率: 0.450000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -1.520518
+[EP_REWARD]: -16.000000
+[ROUND #565/50000] 当前推演耗时79s, 累计耗时43012s
+[FILES]: simple_推演_202303210658
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.541667	 拦截率: 0.541667	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: 1.978711
+[EP_REWARD]: -19.200000
+[ROUND #566/50000] 当前推演耗时66s, 累计耗时43079s
+[FILES]: simple_推演_202303210700
+[MoziLog]: 爱国者2: 1	 爱国者3: 12	 效费比: 0.615385	 拦截率: 0.400000	 有拦截记录: 13	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 5	 无拦截记录: 7
+[Loss]: -1.959970
+[EP_REWARD]: -16.000000
+[ROUND #567/50000] 当前推演耗时63s, 累计耗时43142s
+[FILES]: simple_推演_202303210701
+[MoziLog]: 爱国者2: 3	 爱国者3: 22	 效费比: 0.480000	 拦截率: 0.500000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 12	 无拦截记录: 0
+[Loss]: 0.956337
+[EP_REWARD]: -19.200000
+[ROUND #568/50000] 当前推演耗时73s, 累计耗时43215s
+[FILES]: simple_推演_202303210702
+[MoziLog]: 爱国者2: 1	 爱国者3: 30	 效费比: 0.645161	 拦截率: 0.625000	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: 1.865995
+[EP_REWARD]: -22.400000
+[ROUND #569/50000] 当前推演耗时90s, 累计耗时43306s
+[FILES]: simple_推演_202303210704
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.625000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -4.970387
+[EP_REWARD]: -16.000000
+[ROUND #570/50000] 当前推演耗时74s, 累计耗时43380s
+[FILES]: simple_推演_202303210705
+[MoziLog]: 爱国者2: 3	 爱国者3: 7	 效费比: 0.700000	 拦截率: 0.437500	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 1	 无拦截记录: 8
+[Loss]: -7.385912
+[EP_REWARD]: -12.800000
+[ROUND #571/50000] 当前推演耗时53s, 累计耗时43434s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 571 MISS
+[ROUND #572/50000] 当前推演耗时80s, 累计耗时43515s
+[FILES]: simple_推演_202303210707
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.687500	 拦截率: 0.550000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -2.657411
+[EP_REWARD]: -16.000000
+[ROUND #573/50000] 当前推演耗时59s, 累计耗时43574s
+[FILES]: simple_推演_202303210708
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.750000	 拦截率: 0.642857	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 3.365412
+[EP_REWARD]: -22.400000
+[ROUND #574/50000] 当前推演耗时89s, 累计耗时43663s
+[FILES]: simple_推演_202303210709
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.687500	 拦截率: 0.550000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -1.623961
+[EP_REWARD]: -16.000000
+[ROUND #575/50000] 当前推演耗时66s, 累计耗时43730s
+[FILES]: simple_推演_202303210710
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.437500	 拦截率: 0.350000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: -3.487403
+[EP_REWARD]: -12.800000
+[ROUND #576/50000] 当前推演耗时65s, 累计耗时43796s
+[FILES]: simple_推演_202303210712
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.583333	 拦截率: 0.350000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: -2.371720
+[EP_REWARD]: -12.800000
+[ROUND #577/50000] 当前推演耗时47s, 累计耗时43844s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 577 MISS
+[ROUND #578/50000] 当前推演耗时46s, 累计耗时43891s
+[FILES]: simple_推演_202303210713
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.500000	 拦截率: 0.416667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 10	 记录拦截失败: 10	 无拦截记录: 4
+[Loss]: 2.093970
+[EP_REWARD]: -16.000000
+[ROUND #579/50000] 当前推演耗时65s, 累计耗时43956s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 579 MISS
+[ROUND #580/50000] 当前推演耗时68s, 累计耗时44025s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 580 MISS
+[ROUND #581/50000] 当前推演耗时38s, 累计耗时44063s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 581 MISS
+[ROUND #582/50000] 当前推演耗时51s, 累计耗时44114s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 582 MISS
+[ROUND #583/50000] 当前推演耗时84s, 累计耗时44198s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 583 MISS
+[ROUND #584/50000] 当前推演耗时56s, 累计耗时44255s
+[FILES]: simple_推演_202303210719
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.583333	 拦截率: 0.583333	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 3.535074
+[EP_REWARD]: -19.200000
+[ROUND #585/50000] 当前推演耗时82s, 累计耗时44338s
+[FILES]: simple_推演_202303210721
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.500000	 拦截率: 0.500000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 12	 无拦截记录: 0
+[Loss]: 1.248267
+[EP_REWARD]: -19.200000
+[ROUND #586/50000] 当前推演耗时78s, 累计耗时44417s
+[FILES]: simple_推演_202303210722
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.535714	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: 1.623153
+[EP_REWARD]: -22.400000
+[ROUND #587/50000] 当前推演耗时88s, 累计耗时44505s
+[FILES]: simple_推演_202303210723
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.750000	 拦截率: 0.450000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: -4.689577
+[EP_REWARD]: -16.000000
+[ROUND #588/50000] 当前推演耗时75s, 累计耗时44580s
+[FILES]: simple_推演_202303210725
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.437500	 拦截率: 0.437500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -6.933024
+[EP_REWARD]: -12.800000
+[ROUND #589/50000] 当前推演耗时52s, 累计耗时44633s
+[FILES]: simple_推演_202303210726
+[MoziLog]: 爱国者2: 0	 爱国者3: 15	 效费比: 0.333333	 拦截率: 0.312500	 有拦截记录: 15	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 10	 无拦截记录: 1
+[Loss]: -4.846876
+[EP_REWARD]: -12.800000
+[ROUND #590/50000] 当前推演耗时60s, 累计耗时44694s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 590 MISS
+[ROUND #591/50000] 当前推演耗时86s, 累计耗时44781s
+[FILES]: simple_推演_202303210728
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.700000	 拦截率: 0.583333	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 1.455947
+[EP_REWARD]: -19.200000
+[ROUND #592/50000] 当前推演耗时75s, 累计耗时44856s
+[FILES]: simple_推演_202303210729
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.812500	 拦截率: 0.541667	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: 0.615705
+[EP_REWARD]: -19.200000
+[ROUND #593/50000] 当前推演耗时67s, 累计耗时44924s
+[FILES]: simple_推演_202303210730
+[MoziLog]: 爱国者2: 0	 爱国者3: 11	 效费比: 0.454545	 拦截率: 0.312500	 有拦截记录: 11	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 6	 无拦截记录: 5
+[Loss]: -8.030839
+[EP_REWARD]: -9.600000
+[ROUND #594/50000] 当前推演耗时45s, 累计耗时44969s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 594 MISS
+[ROUND #595/50000] 当前推演耗时97s, 累计耗时45067s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 595 MISS
+[ROUND #596/50000] 当前推演耗时68s, 累计耗时45135s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 596 MISS
+[ROUND #597/50000] 当前推演耗时49s, 累计耗时45185s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 597 MISS
+[ROUND #598/50000] 当前推演耗时74s, 累计耗时45259s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 598 MISS
+[ROUND #599/50000] 当前推演耗时74s, 累计耗时45333s
+[FILES]: simple_推演_202303210737
+[MoziLog]: 爱国者2: 0	 爱国者3: 4	 效费比: 0.000000	 拦截率: 0.000000	 有拦截记录: 4	 来袭数量: 12	 记录拦截成功: 0	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -8.236248
+[EP_REWARD]: -9.600000
+[ROUND #600/50000] 当前推演耗时62s, 累计耗时45396s
+[FILES]: simple_推演_202303210738
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.857143	 拦截率: 0.666667	 有拦截记录: 28	 来袭数量: 36	 记录拦截成功: 24	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 4.795909
+[EP_REWARD]: -25.600000
+[ROUND #601/50000] 当前推演耗时89s, 累计耗时45486s
+[FILES]: simple_推演_202303210740
+[MoziLog]: 爱国者2: 2	 爱国者3: 20	 效费比: 0.636364	 拦截率: 0.583333	 有拦截记录: 21	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 7	 无拦截记录: 3
+[Loss]: -0.385655
+[EP_REWARD]: -19.200000
+[ROUND #602/50000] 当前推演耗时73s, 累计耗时45560s
+[FILES]: simple_推演_202303210741
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.500000	 拦截率: 0.250000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -7.393893
+[EP_REWARD]: -9.600000
+[ROUND #603/50000] 当前推演耗时51s, 累计耗时45612s
+[FILES]: simple_推演_202303210742
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.583333	 拦截率: 0.350000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: -4.268388
+[EP_REWARD]: -12.800000
+[ROUND #604/50000] 当前推演耗时56s, 累计耗时45668s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 604 MISS
+[ROUND #605/50000] 当前推演耗时72s, 累计耗时45741s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 605 MISS
+[ROUND #606/50000] 当前推演耗时70s, 累计耗时45812s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 606 MISS
+[ROUND #607/50000] 当前推演耗时57s, 累计耗时45869s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 607 MISS
+[ROUND #608/50000] 当前推演耗时77s, 累计耗时45946s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 608 MISS
+[ROUND #609/50000] 当前推演耗时86s, 累计耗时46033s
+[FILES]: simple_推演_202303210749
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.437500	 拦截率: 0.437500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -2.778775
+[EP_REWARD]: -12.800000
+[ROUND #610/50000] 当前推演耗时64s, 累计耗时46097s
+[FILES]: simple_推演_202303210750
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.708333	 拦截率: 0.607143	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 4.934186
+[EP_REWARD]: -22.400000
+[ROUND #611/50000] 当前推演耗时87s, 累计耗时46185s
+[FILES]: simple_推演_202303210751
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.535714	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: 3.407713
+[EP_REWARD]: -22.400000
+[ROUND #612/50000] 当前推演耗时90s, 累计耗时46275s
+[FILES]: simple_推演_202303210753
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.083333	 拦截率: 0.083333	 有拦截记录: 12	 来袭数量: 12	 记录拦截成功: 1	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -6.694372
+[EP_REWARD]: -9.600000
+[ROUND #613/50000] 当前推演耗时40s, 累计耗时46316s
+[FILES]: simple_推演_202303210754
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.750000	 拦截率: 0.562500	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 6	 无拦截记录: 8
+[Loss]: 1.835258
+[EP_REWARD]: -22.400000
+[ROUND #614/50000] 当前推演耗时84s, 累计耗时46400s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 614 MISS
+[ROUND #615/50000] 当前推演耗时56s, 累计耗时46457s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 615 MISS
+[ROUND #616/50000] 当前推演耗时41s, 累计耗时46499s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 616 MISS
+[ROUND #617/50000] 当前推演耗时65s, 累计耗时46564s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 617 MISS
+[ROUND #618/50000] 当前推演耗时91s, 累计耗时46655s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 618 MISS
+[ROUND #619/50000] 当前推演耗时62s, 累计耗时46717s
+[FILES]: simple_推演_202303210800
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.750000	 拦截率: 0.656250	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 21	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 0.874341
+[EP_REWARD]: -22.400000
+[ROUND #620/50000] 当前推演耗时98s, 累计耗时46816s
+[FILES]: simple_推演_202303210802
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.583333	 拦截率: 0.350000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: -4.561374
+[EP_REWARD]: -16.000000
+[ROUND #621/50000] 当前推演耗时66s, 累计耗时46883s
+[FILES]: simple_推演_202303210803
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.375000	 拦截率: 0.250000	 有拦截记录: 8	 来袭数量: 12	 记录拦截成功: 3	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -9.873974
+[EP_REWARD]: -9.600000
+[ROUND #622/50000] 当前推演耗时42s, 累计耗时46925s
+[FILES]: simple_推演_202303210804
+[MoziLog]: 爱国者2: 3	 爱国者3: 23	 效费比: 0.576923	 拦截率: 0.535714	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: 2.870501
+[EP_REWARD]: -22.400000
+[ROUND #623/50000] 当前推演耗时85s, 累计耗时47010s
+[FILES]: simple_推演_202303210805
+[MoziLog]: 爱国者2: 2	 爱国者3: 20	 效费比: 0.545455	 拦截率: 0.500000	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: -0.129257
+[EP_REWARD]: -19.200000
+[ROUND #624/50000] 当前推演耗时79s, 累计耗时47089s
+[FILES]: simple_推演_202303210807
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: 0.057005
+[EP_REWARD]: -19.200000
+[ROUND #625/50000] 当前推演耗时79s, 累计耗时47169s
+[FILES]: simple_推演_202303210808
+[MoziLog]: 爱国者2: 0	 爱国者3: 9	 效费比: 0.333333	 拦截率: 0.187500	 有拦截记录: 9	 来袭数量: 16	 记录拦截成功: 3	 记录拦截失败: 6	 无拦截记录: 7
+[Loss]: -5.945696
+[EP_REWARD]: -12.800000
+[ROUND #626/50000] 当前推演耗时57s, 累计耗时47227s
+[FILES]: simple_推演_202303210809
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.750000	 拦截率: 0.625000	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: 0.124969
+[EP_REWARD]: -19.200000
+[ROUND #627/50000] 当前推演耗时75s, 累计耗时47302s
+[FILES]: simple_推演_202303210810
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.714286	 拦截率: 0.625000	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: 1.558264
+[EP_REWARD]: -22.400000
+[ROUND #628/50000] 当前推演耗时83s, 累计耗时47385s
+[FILES]: simple_推演_202303210811
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.416667	 拦截率: 0.312500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -8.034470
+[EP_REWARD]: -12.800000
+[ROUND #629/50000] 当前推演耗时53s, 累计耗时47439s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 629 MISS
+[ROUND #630/50000] 当前推演耗时96s, 累计耗时47536s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 630 MISS
+[ROUND #631/50000] 当前推演耗时41s, 累计耗时47578s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 631 MISS
+[ROUND #632/50000] 当前推演耗时85s, 累计耗时47664s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 632 MISS
+[ROUND #633/50000] 当前推演耗时32s, 累计耗时47697s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 633 MISS
+[ROUND #634/50000] 当前推演耗时54s, 累计耗时47751s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 634 MISS
+[ROUND #635/50000] 当前推演耗时79s, 累计耗时47830s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 635 MISS
+[ROUND #636/50000] 当前推演耗时80s, 累计耗时47911s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 636 MISS
+[ROUND #637/50000] 当前推演耗时61s, 累计耗时47972s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 637 MISS
+[ROUND #638/50000] 当前推演耗时55s, 累计耗时48028s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 638 MISS
+[ROUND #639/50000] 当前推演耗时59s, 累计耗时48087s
+[FILES]: simple_推演_202303210823
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.833333	 拦截率: 0.500000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -5.096409
+[EP_REWARD]: -16.000000
+[ROUND #640/50000] 当前推演耗时68s, 累计耗时48156s
+[FILES]: simple_推演_202303210824
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.833333	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 1.062470
+[EP_REWARD]: -22.400000
+[ROUND #641/50000] 当前推演耗时87s, 累计耗时48244s
+[FILES]: simple_推演_202303210826
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.642857	 拦截率: 0.642857	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 0.397549
+[EP_REWARD]: -22.400000
+[ROUND #642/50000] 当前推演耗时85s, 累计耗时48329s
+[FILES]: simple_推演_202303210827
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.535714	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: -0.133792
+[EP_REWARD]: -22.400000
+[ROUND #643/50000] 当前推演耗时90s, 累计耗时48419s
+[FILES]: simple_推演_202303210829
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.500000	 拦截率: 0.400000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 8	 无拦截记录: 4
+[Loss]: -5.125925
+[EP_REWARD]: -16.000000
+[ROUND #644/50000] 当前推演耗时64s, 累计耗时48484s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 644 MISS
+[ROUND #645/50000] 当前推演耗时97s, 累计耗时48582s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 645 MISS
+[ROUND #646/50000] 当前推演耗时61s, 累计耗时48643s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 646 MISS
+[ROUND #647/50000] 当前推演耗时55s, 累计耗时48699s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 647 MISS
+[ROUND #648/50000] 当前推演耗时60s, 累计耗时48759s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 648 MISS
+[ROUND #649/50000] 当前推演耗时60s, 累计耗时48819s
+[FILES]: simple_推演_202303210835
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.450000	 拦截率: 0.450000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -2.730905
+[EP_REWARD]: -16.000000
+[ROUND #650/50000] 当前推演耗时73s, 累计耗时48893s
+[FILES]: simple_推演_202303210836
+[MoziLog]: 爱国者2: 0	 爱国者3: 14	 效费比: 0.571429	 拦截率: 0.400000	 有拦截记录: 14	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 6	 无拦截记录: 6
+[Loss]: -2.906373
+[EP_REWARD]: -12.800000
+[ROUND #651/50000] 当前推演耗时55s, 累计耗时48949s
+[FILES]: simple_推演_202303210837
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.750000	 拦截率: 0.500000	 有拦截记录: 8	 来袭数量: 12	 记录拦截成功: 6	 记录拦截失败: 2	 无拦截记录: 4
+[EP_REWARD]: -6.400000
+[ROUND #652/50000] 当前推演耗时29s, 累计耗时48979s
+[FILES]: simple_推演_202303210838
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.678571	 拦截率: 0.593750	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: 6.857497
+[EP_REWARD]: -22.400000
+[ROUND #653/50000] 当前推演耗时88s, 累计耗时49067s
+[FILES]: simple_推演_202303210839
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.785714	 拦截率: 0.687500	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 3.413975
+[EP_REWARD]: -22.400000
+[ROUND #654/50000] 当前推演耗时90s, 累计耗时49157s
+[FILES]: simple_推演_202303210841
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.571429	 拦截率: 0.571429	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 12	 无拦截记录: 0
+[Loss]: 0.441653
+[EP_REWARD]: -22.400000
+[ROUND #655/50000] 当前推演耗时92s, 累计耗时49250s
+[FILES]: simple_推演_202303210842
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.583333	 拦截率: 0.437500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -7.277031
+[EP_REWARD]: -12.800000
+[ROUND #656/50000] 当前推演耗时52s, 累计耗时49303s
+[FILES]: simple_推演_202303210843
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.750000	 拦截率: 0.625000	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -1.623428
+[EP_REWARD]: -19.200000
+[ROUND #657/50000] 当前推演耗时67s, 累计耗时49370s
+[FILES]: simple_推演_202303210844
+[MoziLog]: 爱国者2: 0	 爱国者3: 13	 效费比: 0.307692	 拦截率: 0.250000	 有拦截记录: 13	 来袭数量: 16	 记录拦截成功: 4	 记录拦截失败: 9	 无拦截记录: 3
+[Loss]: -5.385557
+[EP_REWARD]: -12.800000
+[ROUND #658/50000] 当前推演耗时55s, 累计耗时49426s
+[FILES]: simple_推演_202303210845
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.125000	 拦截率: 0.083333	 有拦截记录: 8	 来袭数量: 12	 记录拦截成功: 1	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -7.306459
+[EP_REWARD]: -9.600000
+[ROUND #659/50000] 当前推演耗时45s, 累计耗时49472s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 659 MISS
+[ROUND #660/50000] 当前推演耗时62s, 累计耗时49534s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 660 MISS
+[ROUND #661/50000] 当前推演耗时65s, 累计耗时49600s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 661 MISS
+[ROUND #662/50000] 当前推演耗时77s, 累计耗时49677s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 662 MISS
+[ROUND #663/50000] 当前推演耗时68s, 累计耗时49745s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 663 MISS
+[ROUND #664/50000] 当前推演耗时53s, 累计耗时49798s
+[FILES]: simple_推演_202303210852
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.875000	 拦截率: 0.583333	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: 3.395895
+[EP_REWARD]: -19.200000
+[ROUND #665/50000] 当前推演耗时80s, 累计耗时49879s
+[FILES]: simple_推演_202303210853
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.583333	 拦截率: 0.583333	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: 2.656303
+[EP_REWARD]: -19.200000
+[ROUND #666/50000] 当前推演耗时73s, 累计耗时49953s
+[FILES]: simple_推演_202303210854
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.833333	 拦截率: 0.500000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -1.055417
+[EP_REWARD]: -16.000000
+[ROUND #667/50000] 当前推演耗时61s, 累计耗时50014s
+[FILES]: simple_推演_202303210855
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.833333	 拦截率: 0.714286	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 4
+[Loss]: 1.279635
+[EP_REWARD]: -19.200000
+[ROUND #668/50000] 当前推演耗时67s, 累计耗时50082s
+[FILES]: simple_推演_202303210856
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: 0.682450
+[EP_REWARD]: -19.200000
+[ROUND #669/50000] 当前推演耗时73s, 累计耗时50155s
+[FILES]: simple_推演_202303210858
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.625000	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 15	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -0.368521
+[EP_REWARD]: -19.200000
+[ROUND #670/50000] 当前推演耗时82s, 累计耗时50238s
+[FILES]: simple_推演_202303210859
+[MoziLog]: 爱国者2: 0	 爱国者3: 4	 效费比: 0.500000	 拦截率: 0.166667	 有拦截记录: 4	 来袭数量: 12	 记录拦截成功: 2	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -9.328170
+[EP_REWARD]: -9.600000
+[ROUND #671/50000] 当前推演耗时46s, 累计耗时50284s
+[FILES]: simple_推演_202303210900
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.250000	 拦截率: 0.166667	 有拦截记录: 8	 来袭数量: 12	 记录拦截成功: 2	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -7.697607
+[EP_REWARD]: -9.600000
+[ROUND #672/50000] 当前推演耗时44s, 累计耗时50328s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 672 MISS
+[ROUND #673/50000] 当前推演耗时83s, 累计耗时50412s
+[FILES]: simple_推演_202303210902
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.458333	 拦截率: 0.458333	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 11	 记录拦截失败: 13	 无拦截记录: 0
+[Loss]: 1.163262
+[EP_REWARD]: -19.200000
+[ROUND #674/50000] 当前推演耗时74s, 累计耗时50487s
+[FILES]: simple_推演_202303210903
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.312500	 拦截率: 0.312500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -4.089397
+[EP_REWARD]: -12.800000
+[ROUND #675/50000] 当前推演耗时64s, 累计耗时50551s
+[FILES]: simple_推演_202303210904
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.500000	 拦截率: 0.375000	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -3.659698
+[EP_REWARD]: -12.800000
+[ROUND #676/50000] 当前推演耗时54s, 累计耗时50606s
+[FILES]: simple_推演_202303210905
+[MoziLog]: 爱国者2: 0	 爱国者3: 23	 效费比: 0.782609	 拦截率: 0.642857	 有拦截记录: 20	 来袭数量: 28	 记录拦截成功: 18	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: 4.041979
+[EP_REWARD]: -22.400000
+[ROUND #677/50000] 当前推演耗时77s, 累计耗时50683s
+[FILES]: simple_推演_202303210906
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.500000	 拦截率: 0.375000	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -4.025608
+[EP_REWARD]: -12.800000
+[ROUND #678/50000] 当前推演耗时55s, 累计耗时50739s
+[FILES]: simple_推演_202303210907
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.666667	 拦截率: 0.400000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -1.137980
+[EP_REWARD]: -16.000000
+[ROUND #679/50000] 当前推演耗时73s, 累计耗时50812s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 679 MISS
+[ROUND #680/50000] 当前推演耗时73s, 累计耗时50886s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 680 MISS
+[ROUND #681/50000] 当前推演耗时42s, 累计耗时50929s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 681 MISS
+[ROUND #682/50000] 当前推演耗时65s, 累计耗时50994s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 682 MISS
+[ROUND #683/50000] 当前推演耗时63s, 累计耗时51057s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 683 MISS
+[ROUND #684/50000] 当前推演耗时77s, 累计耗时51134s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 684 MISS
+[ROUND #685/50000] 当前推演耗时60s, 累计耗时51195s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 685 MISS
+[ROUND #686/50000] 当前推演耗时53s, 累计耗时51248s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 686 MISS
+[ROUND #687/50000] 当前推演耗时87s, 累计耗时51335s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 687 MISS
+[ROUND #688/50000] 当前推演耗时55s, 累计耗时51391s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 688 MISS
+[ROUND #689/50000] 当前推演耗时90s, 累计耗时51481s
+[FILES]: simple_推演_202303210920
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.666667	 拦截率: 0.500000	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 8	 记录拦截失败: 4	 无拦截记录: 4
+[Loss]: -2.599879
+[EP_REWARD]: -12.800000
+[ROUND #690/50000] 当前推演耗时54s, 累计耗时51536s
+[FILES]: simple_推演_202303210921
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.625000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 1.960696
+[EP_REWARD]: -16.000000
+[ROUND #691/50000] 当前推演耗时63s, 累计耗时51600s
+[FILES]: simple_推演_202303210922
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.541667	 拦截率: 0.541667	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: 2.943395
+[EP_REWARD]: -19.200000
+[ROUND #692/50000] 当前推演耗时76s, 累计耗时51676s
+[FILES]: simple_推演_202303210923
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.812500	 拦截率: 0.541667	 有拦截记录: 16	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: -0.842960
+[EP_REWARD]: -16.000000
+[ROUND #693/50000] 当前推演耗时63s, 累计耗时51739s
+[FILES]: simple_推演_202303210924
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.500000	 拦截率: 0.375000	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -2.301583
+[EP_REWARD]: -12.800000
+[ROUND #694/50000] 当前推演耗时48s, 累计耗时51787s
+[FILES]: simple_推演_202303210925
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.785714	 拦截率: 0.687500	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 22	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: 5.015482
+[EP_REWARD]: -22.400000
+[ROUND #695/50000] 当前推演耗时99s, 累计耗时51887s
+[FILES]: simple_推演_202303210926
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.625000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -0.104255
+[EP_REWARD]: -16.000000
+[ROUND #696/50000] 当前推演耗时62s, 累计耗时51950s
+[FILES]: simple_推演_202303210927
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.200000	 拦截率: 0.200000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 4	 记录拦截失败: 16	 无拦截记录: 0
+[Loss]: -0.169178
+[EP_REWARD]: -16.000000
+[ROUND #697/50000] 当前推演耗时65s, 累计耗时52016s
+[FILES]: simple_推演_202303210929
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.437500	 拦截率: 0.437500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -2.829439
+[EP_REWARD]: -12.800000
+[ROUND #698/50000] 当前推演耗时48s, 累计耗时52065s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 698 MISS
+[ROUND #699/50000] 当前推演耗时83s, 累计耗时52149s
+[FILES]: simple_推演_202303210931
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.750000	 拦截率: 0.450000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: 0.939128
+[EP_REWARD]: -16.000000
+[ROUND #700/50000] 当前推演耗时83s, 累计耗时52232s
+[FILES]: simple_推演_202303210932
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.750000	 拦截率: 0.450000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 3	 无拦截记录: 8
+[Loss]: 0.121561
+[EP_REWARD]: -16.000000
+[ROUND #701/50000] 当前推演耗时63s, 累计耗时52296s
+[FILES]: simple_推演_202303210933
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.714286	 拦截率: 0.714286	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 20	 记录拦截失败: 8	 无拦截记录: 0
+[Loss]: 3.746423
+[EP_REWARD]: -22.400000
+[ROUND #702/50000] 当前推演耗时86s, 累计耗时52382s
+[FILES]: simple_推演_202303210935
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.708333	 拦截率: 0.607143	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 0.855160
+[EP_REWARD]: -22.400000
+[ROUND #703/50000] 当前推演耗时85s, 累计耗时52468s
+[FILES]: simple_推演_202303210936
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.562500	 拦截率: 0.450000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: -5.139284
+[EP_REWARD]: -16.000000
+[ROUND #704/50000] 当前推演耗时65s, 累计耗时52534s
+[FILES]: simple_推演_202303210937
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.708333	 拦截率: 0.607143	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 17	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 0.587070
+[EP_REWARD]: -22.400000
+[ROUND #705/50000] 当前推演耗时89s, 累计耗时52624s
+[FILES]: simple_推演_202303210939
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.550000	 拦截率: 0.550000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -4.699713
+[EP_REWARD]: -16.000000
+[ROUND #706/50000] 当前推演耗时57s, 累计耗时52682s
+[FILES]: simple_推演_202303210940
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.450000	 拦截率: 0.450000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -3.323118
+[EP_REWARD]: -16.000000
+[ROUND #707/50000] 当前推演耗时61s, 累计耗时52743s
+[FILES]: simple_推演_202303210941
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.642857	 拦截率: 0.562500	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 18	 记录拦截失败: 10	 无拦截记录: 4
+[Loss]: 2.798713
+[EP_REWARD]: -22.400000
+[ROUND #708/50000] 当前推演耗时91s, 累计耗时52834s
+[FILES]: simple_推演_202303210942
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.583333	 拦截率: 0.500000	 有拦截记录: 24	 来袭数量: 28	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 4
+[Loss]: -0.406664
+[EP_REWARD]: -19.200000
+[ROUND #709/50000] 当前推演耗时87s, 累计耗时52921s
+[FILES]: simple_推演_202303210944
+[MoziLog]: 爱国者2: 0	 爱国者3: 27	 效费比: 0.740741	 拦截率: 0.625000	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 20	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: 1.649473
+[EP_REWARD]: -22.400000
+[ROUND #710/50000] 当前推演耗时98s, 累计耗时53020s
+[FILES]: simple_推演_202303210945
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.583333	 拦截率: 0.583333	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 14	 记录拦截失败: 10	 无拦截记录: 0
+[Loss]: -1.852406
+[EP_REWARD]: -19.200000
+[ROUND #711/50000] 当前推演耗时67s, 累计耗时53088s
+[FILES]: simple_推演_202303210946
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.916667	 拦截率: 0.550000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 1	 无拦截记录: 8
+[Loss]: -4.383692
+[EP_REWARD]: -16.000000
+[ROUND #712/50000] 当前推演耗时55s, 累计耗时53144s
+[FILES]: simple_推演_202303210947
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.350000	 拦截率: 0.350000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 7	 记录拦截失败: 13	 无拦截记录: 0
+[Loss]: -1.067072
+[EP_REWARD]: -16.000000
+[ROUND #713/50000] 当前推演耗时66s, 累计耗时53210s
+[FILES]: simple_推演_202303210948
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.666667	 拦截率: 0.400000	 有拦截记录: 12	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 4	 无拦截记录: 8
+[Loss]: -0.039530
+[EP_REWARD]: -16.000000
+[ROUND #714/50000] 当前推演耗时71s, 累计耗时53281s
+[FILES]: simple_推演_202303210950
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.650000	 拦截率: 0.541667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 2.530118
+[EP_REWARD]: -19.200000
+[ROUND #715/50000] 当前推演耗时76s, 累计耗时53358s
+[FILES]: simple_推演_202303210951
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.583333	 拦截率: 0.437500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -3.262051
+[EP_REWARD]: -12.800000
+[ROUND #716/50000] 当前推演耗时44s, 累计耗时53402s
+[FILES]: simple_推演_202303210952
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.625000	 拦截率: 0.500000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 10	 记录拦截失败: 6	 无拦截记录: 4
+[Loss]: -0.461628
+[EP_REWARD]: -16.000000
+[ROUND #717/50000] 当前推演耗时58s, 累计耗时53460s
+[FILES]: simple_推演_202303210953
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.678571	 拦截率: 0.678571	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 19	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: 4.799728
+[EP_REWARD]: -22.400000
+[ROUND #718/50000] 当前推演耗时85s, 累计耗时53545s
+[FILES]: simple_推演_202303210954
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.583333	 拦截率: 0.437500	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -3.805449
+[EP_REWARD]: -12.800000
+[ROUND #719/50000] 当前推演耗时48s, 累计耗时53594s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 719 MISS
+[ROUND #720/50000] 当前推演耗时98s, 累计耗时53693s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 720 MISS
+[ROUND #721/50000] 当前推演耗时86s, 累计耗时53780s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 721 MISS
+[ROUND #722/50000] 当前推演耗时88s, 累计耗时53869s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 722 MISS
+[ROUND #723/50000] 当前推演耗时50s, 累计耗时53920s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 723 MISS
+[ROUND #724/50000] 当前推演耗时89s, 累计耗时54009s
+[FILES]: simple_推演_202303211002
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.678571	 拦截率: 0.593750	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: 5.249668
+[EP_REWARD]: -25.600000
+[ROUND #725/50000] 当前推演耗时97s, 累计耗时54107s
+[FILES]: simple_推演_202303211003
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.500000	 拦截率: 0.500000	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 14	 记录拦截失败: 14	 无拦截记录: 0
+[Loss]: 1.719921
+[EP_REWARD]: -22.400000
+[ROUND #726/50000] 当前推演耗时82s, 累计耗时54190s
+[FILES]: simple_推演_202303211005
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.312500	 拦截率: 0.312500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 5	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -7.104111
+[EP_REWARD]: -12.800000
+[ROUND #727/50000] 当前推演耗时51s, 累计耗时54242s
+[FILES]: simple_推演_202303211006
+[MoziLog]: 爱国者2: 0	 爱国者3: 8	 效费比: 0.750000	 拦截率: 0.375000	 有拦截记录: 8	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 2	 无拦截记录: 8
+[Loss]: -8.972588
+[EP_REWARD]: -9.600000
+[ROUND #728/50000] 当前推演耗时38s, 累计耗时54280s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 728 MISS
+[ROUND #729/50000] 当前推演耗时63s, 累计耗时54343s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 729 MISS
+[ROUND #730/50000] 当前推演耗时57s, 累计耗时54401s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 730 MISS
+[ROUND #731/50000] 当前推演耗时50s, 累计耗时54452s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 731 MISS
+[ROUND #732/50000] 当前推演耗时73s, 累计耗时54525s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 732 MISS
+[ROUND #733/50000] 当前推演耗时90s, 累计耗时54615s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 733 MISS
+[ROUND #734/50000] 当前推演耗时96s, 累计耗时54711s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 734 MISS
+[ROUND #735/50000] 当前推演耗时97s, 累计耗时54809s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 735 MISS
+[ROUND #736/50000] 当前推演耗时57s, 累计耗时54867s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 736 MISS
+[ROUND #737/50000] 当前推演耗时52s, 累计耗时54919s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 737 MISS
+[ROUND #738/50000] 当前推演耗时68s, 累计耗时54987s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 738 MISS
+[ROUND #739/50000] 当前推演耗时76s, 累计耗时55064s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 739 MISS
+[ROUND #740/50000] 当前推演耗时95s, 累计耗时55160s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 740 MISS
+[ROUND #741/50000] 当前推演耗时73s, 累计耗时55234s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 741 MISS
+[ROUND #742/50000] 当前推演耗时89s, 累计耗时55323s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 742 MISS
+[ROUND #743/50000] 当前推演耗时90s, 累计耗时55413s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 743 MISS
+[ROUND #744/50000] 当前推演耗时97s, 累计耗时55510s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 744 MISS
+[ROUND #745/50000] 当前推演耗时69s, 累计耗时55580s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 745 MISS
+[ROUND #746/50000] 当前推演耗时60s, 累计耗时55641s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 746 MISS
+[ROUND #747/50000] 当前推演耗时74s, 累计耗时55715s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 747 MISS
+[ROUND #748/50000] 当前推演耗时65s, 累计耗时55780s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 748 MISS
+[ROUND #749/50000] 当前推演耗时61s, 累计耗时55841s
+[FILES]: simple_推演_202303211032
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.500000	 拦截率: 0.500000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 12	 无拦截记录: 0
+[Loss]: -1.371042
+[EP_REWARD]: -19.200000
+[ROUND #750/50000] 当前推演耗时87s, 累计耗时55928s
+[FILES]: simple_推演_202303211034
+[MoziLog]: 爱国者2: 0	 爱国者3: 32	 效费比: 0.718750	 拦截率: 0.638889	 有拦截记录: 32	 来袭数量: 36	 记录拦截成功: 23	 记录拦截失败: 9	 无拦截记录: 4
+[Loss]: 3.575583
+[EP_REWARD]: -25.600000
+[ROUND #751/50000] 当前推演耗时94s, 累计耗时56023s
+[FILES]: simple_推演_202303211035
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.541667	 拦截率: 0.541667	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 13	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -1.174136
+[EP_REWARD]: -19.200000
+[ROUND #752/50000] 当前推演耗时73s, 累计耗时56096s
+[FILES]: simple_推演_202303211037
+[MoziLog]: 爱国者2: 1	 爱国者3: 15	 效费比: 0.687500	 拦截率: 0.550000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 11	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: -3.327407
+[EP_REWARD]: -16.000000
+[ROUND #753/50000] 当前推演耗时54s, 累计耗时56151s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 753 MISS
+[ROUND #754/50000] 当前推演耗时60s, 累计耗时56212s
+[FILES]: simple_推演_202303211039
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.400000	 拦截率: 0.400000	 有拦截记录: 20	 来袭数量: 20	 记录拦截成功: 8	 记录拦截失败: 12	 无拦截记录: 0
+[Loss]: -1.271148
+[EP_REWARD]: -16.000000
+[ROUND #755/50000] 当前推演耗时75s, 累计耗时56288s
+[FILES]: simple_推演_202303211040
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.562500	 拦截率: 0.450000	 有拦截记录: 16	 来袭数量: 20	 记录拦截成功: 9	 记录拦截失败: 7	 无拦截记录: 4
+[Loss]: 0.868834
+[EP_REWARD]: -16.000000
+[ROUND #756/50000] 当前推演耗时61s, 累计耗时56350s
+[FILES]: simple_推演_202303211041
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.666667	 拦截率: 0.500000	 有拦截记录: 12	 来袭数量: 16	 记录拦截成功: 8	 记录拦截失败: 4	 无拦截记录: 4
+[Loss]: -2.087696
+[EP_REWARD]: -12.800000
+[ROUND #757/50000] 当前推演耗时44s, 累计耗时56395s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 757 MISS
+[ROUND #758/50000] 当前推演耗时62s, 累计耗时56458s
+[FILES]: simple_推演_202303211043
+[MoziLog]: 爱国者2: 0	 爱国者3: 24	 效费比: 0.791667	 拦截率: 0.593750	 有拦截记录: 24	 来袭数量: 32	 记录拦截成功: 19	 记录拦截失败: 5	 无拦截记录: 8
+[Loss]: 4.534918
+[EP_REWARD]: -22.400000
+[ROUND #759/50000] 当前推演耗时89s, 累计耗时56547s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 759 MISS
+[ROUND #760/50000] 当前推演耗时58s, 累计耗时56606s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 760 MISS
+[ROUND #761/50000] 当前推演耗时78s, 累计耗时56684s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 761 MISS
+[ROUND #762/50000] 当前推演耗时86s, 累计耗时56770s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 762 MISS
+[ROUND #763/50000] 当前推演耗时70s, 累计耗时56841s
+[ERROR]: 0 ready_file
+[ERROR] Log Generate Error
+[ERROR] Log CSV Error
+[ERROR] ROUND 763 MISS
+[ROUND #764/50000] 当前推演耗时50s, 累计耗时56891s
+[FILES]: simple_推演_202303211050
+[MoziLog]: 爱国者2: 0	 爱国者3: 13	 效费比: 0.461538	 拦截率: 0.375000	 有拦截记录: 13	 来袭数量: 16	 记录拦截成功: 6	 记录拦截失败: 7	 无拦截记录: 3
+[Loss]: -2.218864
+[EP_REWARD]: -12.800000
+[ROUND #765/50000] 当前推演耗时61s, 累计耗时56952s
+[FILES]: simple_推演_202303211051
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.571429	 拦截率: 0.571429	 有拦截记录: 28	 来袭数量: 28	 记录拦截成功: 16	 记录拦截失败: 12	 无拦截记录: 0
+[Loss]: 3.728511
+[EP_REWARD]: -22.400000
+[ROUND #766/50000] 当前推演耗时84s, 累计耗时57037s
+[FILES]: simple_推演_202303211052
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.600000	 拦截率: 0.500000	 有拦截记录: 24	 来袭数量: 24	 记录拦截成功: 12	 记录拦截失败: 12	 无拦截记录: 0
+[Loss]: 0.536111
+[EP_REWARD]: -19.200000
+[ROUND #767/50000] 当前推演耗时70s, 累计耗时57107s
+[FILES]: simple_推演_202303211053
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.083333	 拦截率: 0.083333	 有拦截记录: 12	 来袭数量: 12	 记录拦截成功: 1	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -8.131139
+[EP_REWARD]: -9.600000
+[ROUND #768/50000] 当前推演耗时42s, 累计耗时57150s
+[FILES]: simple_推演_202303211054
+[MoziLog]: 爱国者2: 0	 爱国者3: 28	 效费比: 0.821429	 拦截率: 0.718750	 有拦截记录: 28	 来袭数量: 32	 记录拦截成功: 23	 记录拦截失败: 5	 无拦截记录: 4
+[Loss]: 3.061840
+[EP_REWARD]: -25.600000
+[ROUND #769/50000] 当前推演耗时95s, 累计耗时57245s
+[FILES]: simple_推演_202303211056
+[MoziLog]: 爱国者2: 0	 爱国者3: 16	 效费比: 0.437500	 拦截率: 0.437500	 有拦截记录: 16	 来袭数量: 16	 记录拦截成功: 7	 记录拦截失败: 9	 无拦截记录: 0
+[Loss]: -6.729196
+[EP_REWARD]: -12.800000
+[ROUND #770/50000] 当前推演耗时60s, 累计耗时57306s
+[FILES]: simple_推演_202303211057
+[MoziLog]: 爱国者2: 0	 爱国者3: 20	 效费比: 0.500000	 拦截率: 0.416667	 有拦截记录: 20	 来袭数量: 24	 记录拦截成功: 10	 记录拦截失败: 10	 无拦截记录: 4
+[Loss]: -1.282333
+[EP_REWARD]: -19.200000
+[ROUND #771/50000] 当前推演耗时73s, 累计耗时57380s
+[FILES]: simple_推演_202303211058
+[MoziLog]: 爱国者2: 0	 爱国者3: 12	 效费比: 0.083333	 拦截率: 0.083333	 有拦截记录: 12	 来袭数量: 12	 记录拦截成功: 1	 记录拦截失败: 11	 无拦截记录: 0
+[Loss]: -7.754957
+[EP_REWARD]: -9.600000
+[ROUND #772/50000] 当前推演耗时39s, 累计耗时57419s

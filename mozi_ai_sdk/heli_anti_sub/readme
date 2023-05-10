@@ -1,0 +1,2 @@
+修改heli_ant_sub\env\etc.py的MOZIPATH 为本机墨子推演系统的bin目录文件夹，其他推演速度，决策步长也可以设置。
+设置完成后，启动main_versus.py：就可以运行该案例，启动对战。
